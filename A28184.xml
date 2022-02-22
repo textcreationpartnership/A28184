@@ -1,0 +1,1805 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The non-pareil, or, The vertuous daughter surmounting all her sisters described in a funerall sermon upon the death of that vertuous lady, Elizabeth Hoyle, late wife of the worshipfull Thomas Hoyle, alderman of the city of Yorke / by that godly and reverend divine, Mr. Iohn Birchall ...</title>
+            <author>Birchall, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 96 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A28184</idno>
+            <idno type="STC">Wing B2940</idno>
+            <idno type="STC">ESTC R6101</idno>
+            <idno type="EEBO-CITATION">12320534</idno>
+            <idno type="OCLC">ocm 12320534</idno>
+            <idno type="VID">59467</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A28184)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 59467)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 203:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The non-pareil, or, The vertuous daughter surmounting all her sisters described in a funerall sermon upon the death of that vertuous lady, Elizabeth Hoyle, late wife of the worshipfull Thomas Hoyle, alderman of the city of Yorke / by that godly and reverend divine, Mr. Iohn Birchall ...</title>
+                  <author>Birchall, John.</author>
+               </titleStmt>
+               <extent>[4], 9-[42] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho. Broad ...,</publisher>
+                  <pubPlace>York :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+                  <note>"An elegie upon the ... death of ... Elizabeth Hoyle" has special t.p.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hoyle, Elizabeth, d. 1639.</term>
+               <term>Funeral sermons.</term>
+               <term>Sermons, English.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-12</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:59467:1"/>
+            <pb facs="tcp:59467:1" rendition="simple:additions"/>
+            <p> THE NON-PAREIL, OR, THE VERTVOVS DAVGHTER SVRMOVNTING ALL HER SISTERS: Deſcribed, In a Funerall Sermon upon tbe Death of that vertuous Lady, <hi>ELIZABETH HOYLE,</hi> late wife of the Worſhipfull <hi>Thomas Hoyle,</hi> Alderman of the City of <hi>Yorke.</hi>
+            </p>
+            <p>By that godly and Reverend Divine M<hi rend="sup">r</hi> 
+               <hi>Iohn Birchall,</hi> late Paſtor of the Church of St. <hi>Martins</hi> in Micklegate.</p>
+            <q>The righteous ſhall be had in everlaſting remem<g ref="char:EOLhyphen"/>brance, but the memoriall of the wicked ſhall rot.</q>
+            <p>YORK: Printed by <hi>Tho: Bro<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> welling in Stone-gate over againſt the Sta<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re. <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>6<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>4.</p>
+            <pb facs="tcp:59467:2"/>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:59467:2"/>
+            <head>To the Honourable <hi>Thomas Hoyle,</hi> Lord Majo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the City of <hi>Yorke,</hi> and one of the Burgeſſes of the High Court of Parliament for that City, increaſe of Honour and Vertue.</head>
+            <opener>
+               <salute>HONOVRABLE,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Hope whiles I revive your vertuous Ladies memory, I need not fear to renew your ſo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>row, which is not ſo much worn away with Time, as born with Chriſtian Fortitude, and allayed with diſcretion. Againe, you have happily repaired your loſſes, (and in the ſame kind) by a ſecond <hi>Rebecca;</hi> ſo you are comforted after her death, who (living) was Mother in <hi>Iſrael,</hi> as <hi>Iſraels</hi> Father was after the death of his Mo<g ref="char:EOLhyphen"/>ther. Adde to this, that all private Croſſes are to be forgotten, yea and preſent Bleſſings ſcarce to be injoyed, when wee remember our publique calamities. So <hi>Pbineas</hi> his wife was more affected wiih the taking of the Ark, then with the death of either Husband or Fa<g ref="char:EOLhyphen"/>ther; ne<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ther would ſhe forget her ſorrow, though a Man-child was born into the world. Such was (not the wilful humour, but) the gracious temper of that good <hi>Hittite,</hi> who would neither eate nor drink, nor go down to his houſe or wife, whiles the Ark and Judah abode in the Tents, and his Lord <hi>Joab</hi> and his ſervants lay in the open fields, counting that unlawfull, which was onely unſeaſona<g ref="char:EOLhyphen"/>ble. Pardon I pray you, this digreſſion, which yet is not altogether impertinent to this enſuing Funerall Subject, ſeeing the whole Kingdome is almoſt turned into one Funerall. The righteous pe<g ref="char:EOLhyphen"/>riſh, and none layeth it to heart; where, though the departure of the Righteous is much to be lamented, yet much more the apathy and ſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſleſneſſe of the miſerable Surviver.</p>
+            <p>But to return and reſume our former Subject. As ſhe wa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cel<g ref="char:EOLhyphen"/>lent Pattern of many divine graces, ſo eſpecially ſhe excel<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d in this tenderneſs &amp; compaſſion, which, with the reſt of her holy vertues, I need not pourtray and repreſent unto your view, ſeeing you fully know them by a long and ſweet experience<g ref="char:punc">▪</g> &amp; have their Idea ſtill before your eyes: &amp; this alſo is done to my hand in this juſt Panegy<g ref="char:EOLhyphen"/>rick by a better Orator, who was your vigilant Paſtor, &amp; my reverend acquaintance, in whom thoſe rich endowments, which he deſcribes in your worthy Conſort, did alſo ſhine in an eminent manner, ſo that changing onely the Psrſon, it may ſerve for his own Funerall Sermon; for as in water face anſwereth to face, ſo their hear is both waſhed with water and the ſame holy Spirit, were alike ſpirituall
+<pb facs="tcp:59467:3"/> and holy. He being dead, yet ſpeaketh in his Sermon, and ſhe being dead, yet liveth in our affections and memory. &amp; remaines a lively pattern of heavenly converſation. Her excelling vertues he ſets forth, not in excellency of words, but with the Apoſtle in the de<g ref="char:EOLhyphen"/>monſtration of the Spirit and of Power. Neither could his medita<g ref="char:EOLhyphen"/>tions &amp; compoſure be very exact and perfect, ſeeing this his pre<g ref="char:EOLhyphen"/>gnant iſſue was to be delivered the day after the conception: and though he had more time for preparation, yet he was not like thoſe who prick their words, (as birds ſet their feathers, or nice women their curles,) in a quaint &amp; curious order; for this ſavours more of affectation then of affection, &amp; of oſtentation, then truth &amp; ſinceri<g ref="char:EOLhyphen"/>ty. There are many whoſ&amp; Sermons are halfe a yeer in contriving, then vented in one hour, &amp; forgotten in another; (like painted Pa<g ref="char:EOLhyphen"/>geants erected againſt the Kings Coronation, which after much pains &amp; time ſpent in decoring, are taken down when the day of Solemnity is over,) and theſe are they who like thoſe Jews, <hi>John.</hi> 5. 44. ſeek honor one of an<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ther, &amp; ſeek not the honour which cometh from God only, eſpecially the chief Rulers among them did love the praiſe of men more then the praiſe of God, <hi>Joh.</hi> 12. 43. whereas not he that commendeth himſelf (as ſuch plaunble, but unprofita<g ref="char:EOLhyphen"/>ble men would do) is approved, but whom the Lord commendeth, 2 C<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r. 10. <hi>ult.</hi> But the ſole aime of our Orator is, to glorifie God, to do your Conſort right and us all good, by ſetting forth in plain, yet patheticall language, her holy life, for our happy imitation: and though his time of preparation was very ſhort, yet his Se<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mons very full; for he being a preſent man alwayes furniſhed, had his quiver full of divine meditationss which he c<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uld readily open upon every opportunity, and it becomes every one of us to expoſe the tender parts of our hearts to ſuch wounding, yet healing arrows, which receive this ſoveraign quality from the Sun of righteouſneſs which hath healing in his wings. Now for this particular Sermon, certain<g ref="char:EOLhyphen"/>ly it is much eclipſed, from that primitive luſtre which it had when it was preſented <hi>viva voce</hi> before you: for his tongue was <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he pen of a ready writer, but not the pen of any writer could match his ready tongue; for he was very quick bo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h in his tongue and in his mind, full of holy affections to ſanctifie his learning, and full of choice lea<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ning to beautifie his holineſſe. Thus much I thought good <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o write in his honour, who ſo much honoured you &amp; yours. But I fea<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e me I have wea<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ied you, ſo now remit y<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u to the refre<g ref="char:EOLhyphen"/>freſhm<gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> of his comfortable Sermon, which I make bold to commend to your Patr<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nage, you and yours to the Almighties protection, and <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ny poor endeav<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs to your Lordſhips acceptation. So reſt,</p>
+            <closer>
+               <signed>Your Lordſhips true Honourer, <hi>J. F.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <group>
+         <text xml:lang="eng">
+            <body>
+               <div type="commendation">
+                  <pb n="9" facs="tcp:59467:3"/>
+                  <head>The Commendation.</head>
+                  <epigraph>
+                     <bibl>
+                        <hi>PROV.</hi> 31. 29.</bibl>
+                     <q>Many Daughters have done vertuouſly, but thou excelleſt them all.</q>
+                  </epigraph>
+                  <p>
+                     <seg rend="decorInit">W</seg>Hen I looked firſt into this Text, thin<g ref="char:EOLhyphen"/>king to conſult (as I did) with ſome, yea, divers Commentators, then I did begin to thinke of ſaving that labour; for truly this bleſſed Saint of God was the beſt Commentary of this my Text in her life: What an happy thing was it that ſhe ſhould heare her Funerall Sermon (as it were) before her death; the laſt Ser<g ref="char:EOLhyphen"/>mon that ever ſhe heard was on that <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ubject, and it was obſerved concerning her, that ſhe came from the place of Gods Worſhip with ſuch joy, as though ſhe had come from Heaven. The text was that which we ſpake of laſt Munday
+<pb n="10" facs="tcp:59467:4"/> on the 116. <hi>Pſalme</hi> 13. <hi>Precious in the ſight of the Lord is the death of his Saints.</hi> She both in her life and at her death did expreſſe the truth of that laſt text which ſhee heard diſcourſe of on a Funerall occaſi<g ref="char:EOLhyphen"/>on, and ſhe alſo in her life and converſation is an exact Commen<g ref="char:EOLhyphen"/>tary on this my text. That which I purpoſe to ſpeak of concerning her, ſhall be nothing but what I conceive in Gods ſight to be truth: and what ſhall be now ſaid in her commendation, (for ſeeing ſhee honoured the Lord in her life, it is my poor deſire, and it ſhall be my beſt indeavour to honour her at her death,) what (I ſay) now firſt ſhall be ſaid in her commendation, ſhall at laſt be repeated againe with application unto you all, for your imitation.</p>
+                  <p>Truly this in generall, firſt I may ſay, that when I look into thoſe examples in the Scripture of rare perſons, even of godly women, as <hi>Sarah</hi> and <hi>Deborah</hi> a <hi>Mother in Iſrael,</hi> and the like, may not we ſay, that the name indeed differs, but the practiſe doth not; a <hi>Sarah</hi> is dead, a <hi>Deborah</hi> a <hi>Mother in Iſrael</hi> is gone: Nay, beſide theſe exam<g ref="char:EOLhyphen"/>ples, when I read thoſe expreſſions and diſcriptions of godly we<g ref="char:EOLhyphen"/>men, in the 1 <hi>Tim.</hi> 2. in the 2 <hi>Titus,</hi> as alſo in the 1 <hi>Peter</hi> 3. me thinks, there is a lively diſcription of this godly Saint.</p>
+                  <p>But leaving generals, we will come to ſpeak of ſome particulars, and we will reduce them briefly into theſe two heads. Firſt, to her converſation before God, as in the ſight of God, as alſo amongſt<note place="margin" type="runsum">Her con<g ref="char:EOLhyphen"/>verſation towards God.</note> and before men here on earth. Secondly, to her affection and Hea<g ref="char:EOLhyphen"/>venly mindedneſſe towards that glorious place, and the enjoying of that bleſſed perſon there, even the Lord Jeſus. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>or the firſt of theſe, (and by the way, that you may not conceive, that what ſhee did even in regard of Morall things, was nothing but what a Civil and Morall man might have done) this Man-ward, the will of God was her rule, the Spirit of God was her guide, and the glory of God was her end. Three ſuch qualifications of an action, as never yet were found in the beſt action of the higheſt Formaliſt.</p>
+                  <p>But now particularly concerning that firſt work of God upon her, even her converſation unto God (as I am given to underſtand.) It is ſince the Lord begun to ſet her face towards Heaven ſome thirty yeares, or thereabouts, all which time untill now, ſhe kept her face and her heart towards that bleſſed place.</p>
+                  <p>Look a little into the Goſpell (for there are the beſt and the ſureſt
+<pb n="11" facs="tcp:59467:4"/> evidences of a bleſſed eſtate) concerning the great work of Faith in<note place="margin" type="runsum">H<gap reason="illegible" resp="#MURP" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> Faith</note> the blood of the Lord Jeſus: oh, how precious was the Lord Chriſt unto her ſoule, as her diſcourſes many a time did manifeſt, and as the text ſpeaks, 1 <hi>Pet</hi> 2. It is a cleer evidence that ſhe beleeved on the Lord Jeſus, becauſe (as the Apoſtle there ſpeakes) to ſuch as doe be<g ref="char:EOLhyphen"/>lieve he is precious, and ſo he was unto her; and you may conceive from that, which ſome perſons doe think, is not ſuch an evidence, ſhe her ſelf would often confeſſe, that ſhe found ſhaking ſometimes concerning her Faith: for I do aſſent unto his judgment that affirm it, <hi>That he that alwayes believes alike, and he that alwayes prayes alike, hee never believed, nor prayed truly.</hi> But all her ſhaking were for her further ſetling and rooting in the Faith; as ye take a tender Plant &amp; ſhake it that ſo the roote of it may bee more ſetled in the ground, and ſpread abroad further in the earth.</p>
+                  <p>And for her repentance in reſpect of ſinne, oh her ſorrowfull and<note place="margin" type="runsum">Her repen<g ref="char:EOLhyphen"/>tance.</note> penitent ſoul for that! after her dayes of humiliation in ſecret, ſhe comming out into the family ſeverall times theſe years have heard her ſpeaking of her ſins, with eyes as full of tears as may be; and when ſhe came unto the Lords table, ſhe came with ſuch broken<g ref="char:EOLhyphen"/>neſſe and with ſuch tenderneſſe of ſpirit, as it was a cleere evidence unto me, that as with joy ſhe looked on Chriſt the Maker and Mat<g ref="char:EOLhyphen"/>ter of that bleſſed Feaſt, ſo with ſorrow ſhe looked on her ſinne by which ſhe had pierced ſo ſweet a Saviour.</p>
+                  <p>What ſhall I ſay further, I might goe through all thoſe markes and evidences of life and of ſalvation revealed in the Goſpell, ex<g ref="char:EOLhyphen"/>preſſed by our Saviour, in 5. <hi>Mat.</hi> O I might tell you that ſhe was poor in ſpirit, and ſhe was pure in heart, and ſhee was a mourning ſoule, and ſhe was an hungry ſoul, ſhe was a meek ſoule, and ſhe was a mercifull ſoule, of all which our bleſſed Saviour pronounces this in that place, that they are certain and infallible markes of a bleſ<g ref="char:EOLhyphen"/>ſed eſtate. Looke into thoſe evidences that are expreſſed in the rules and commands of the Goſpell, as concerning the mortifying of ſinne, ſo as not ſuffering it to raign, growing in grace, walking, not after the fleſh, but after the ſpirit, ſelf-deniall and humility of ſpi<g ref="char:EOLhyphen"/>rit,<note place="margin" type="runsum">Her ſelfe-deniall &amp; <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>umilitie.</note> eſpecially that in the will, not only that reverentiall humility whereby ſhe had high thoughts of her God, and low and meane thoughts of her ſelfe, but alſo that obedientiall humility in ſto<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ping,
+<pb n="12" facs="tcp:59467:5"/> and ſubjecting her will unto the will of her God; this was e<g ref="char:EOLhyphen"/>nough for her that God had ſaid it, and therefore ſhee for ber par would indeavour to do it; theſe are ſuch evidences as are Evange<g ref="char:EOLhyphen"/>licall.</p>
+                  <p>Look now a little into the Law as modifyed by the Goſpell; in all the commands of the firſt Table. For the firſt command I have<note place="margin" type="runsum">Her obe<g ref="char:EOLhyphen"/>dience to the firſt Command</note> often thought of her ſpeech; oh! ſaith ſhe, I <hi>am greatly in love with the firſt command,</hi> and truly it was a ſound evidence of life in her, for this is the ſumme of the firſt Table, <hi>Thou ſhalt love the Lord thy God with all thy heart,</hi> &amp;c. nay, ſhe was heartily glad that the Lord had bin pleaſed to expreſſe himſelf in that manner. Oh beloved, could any man hear her ſpeake this, how ſhe loved the firſt Command, which indeed is the root and ſubſtance of all the reſt, and how glad ſhee was, that God had given out ſuch a Command; could any man (I ſay) heare this, and not thus conclude from it, and ſay, Oh, the ſtrength of grace in the heart of this Saint!<note place="margin" type="runsum">
+                        <hi>T<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> the</hi> 2. <hi>C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>mmand Her <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>rdi<g ref="char:EOLhyphen"/>nary du<g ref="char:EOLhyphen"/>ties. In he<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>ing the Word. In recei<g ref="char:EOLhyphen"/>ving the Sacra<g ref="char:EOLhyphen"/>mente.</hi>
+                     </note>
+                  </p>
+                  <p>And for the ſecond Command, that is, of Gods worſhip, whether ordinary or extraordinary. For the ordinary, whether publique, private, or ſecret; For thoſe in publique, as the hearing of Gods Word and joyning in Prayer, oh what meltings, and oh what breakings have theſe eyes ſeen, in that ſeat, ſhe uſed to heare, and made uſe of what ſhe heard! Many of us doe uſe to heare Ser<g ref="char:EOLhyphen"/>mons, but there is an end, we make but little good uſe of the Ser<g ref="char:EOLhyphen"/>mons that we heare. And for her receiving of the Sacrament, oh what care did ſhe take in a ſpeciall manner by her ſelfe, by hum<g ref="char:EOLhyphen"/>bling of her ſoule to prepare her ſelfe for the participation of that ordinance! and oh what melting affection in a ſweet mixture of joy and ſorrow (for at that time there is both) have theſe eyes ſeene in her, when as theſe hands have given her the outward elements? and oh the joy and gladneſſe of her ſoule after ſhee returned home, having been feaſted with the Lord Jeſus at his own Table? And as<note place="margin" type="runsum">In <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>ding of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ri<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>tu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>es. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> me<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>it<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ion.</note> for private performances what ſhall I ſay for reading the Scriptures from the firſt, unto the laſt, ſhe was a conſtant dayly reader of Gods Word; And for that ſame duty of Meditation, (oh, that too much neglected duty) it was her conſtant courſe one or twice a day to run over what ſhe had heard on the Lords-Day, even on the weeke day, and I my ſelf have ſeen her many a time retire her ſelf to walk
+<pb n="13" facs="tcp:59467:5"/> in a place commonly called the Garth, or in ſome other place in a ſpeciall manner (I am perſwaded) for this very end, to preſſe upon her ſoule in ſecret, what ſhe had heard in publique. And for that of prayer, her conſtant courſe was to pray by her ſelf three or foure<note place="margin" type="runsum">I<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> prayer.</note> times conſtantly every day, beſide her conſtant joyning in the fa<g ref="char:EOLhyphen"/>mily duties. And here now (if you pleaſe) let me bring in her death becauſe when ſhe was cloſing with God in that duty, then the Lord<note place="margin" type="runsum">concerning her preſent Death.</note> was pleaſed in a ſpeciall manner to draw neer unto her, &amp; this you muſt know that it is one thing to die ſuddently, another thing to die preſently or quickly.</p>
+                  <p>Suddenneſſe is this, when a man never thought on the matter before, nor prepared for the matter before; but preſentneſſe or ſpee<g ref="char:EOLhyphen"/>dineſſe may come on a perſon that is fitted and prepared; therefore let me ſay two things concerning this. Firſt, for her preparation for<note place="margin" type="runsum">Her prepa<g ref="char:EOLhyphen"/>ration for Death.</note> death, and her thoughts and ſpeeches of death, it was very much, and they were very many and frequent; nay, the very laſt day that ever ſhee lived here on earth, even at Noone in diſcourſing with o<g ref="char:EOLhyphen"/>thers, to this purpoſe ſhe ſaid unto her husband; Husband you are not like to enjoy me long; ſome replyes being made unto her, ſhee returned this anſwer, But no man knows ſo much by me, as I do by my ſelfe; and this was about eight hou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s before her death; thus her thoughts were running upon it, and no doubt ſtill ſhe was pre<g ref="char:EOLhyphen"/>paring for it; and ſhe hath ſaid unto me and others, that ſhee was verily perſwaded ſhe ſhould die this kind of death, becauſe it ſeems both her Father and her ſiſter before her dyed ſo. Yet you muſt re<g ref="char:EOLhyphen"/>member the diſtinction that even now we gave you. There is a two<g ref="char:EOLhyphen"/>fold<note place="margin" type="runsum">A twofold ſuddenneſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> in dying.</note> ſuddenneſſe; one in reſpect of preparation, and another in re<g ref="char:EOLhyphen"/>gard of time: the former was not to her, the latter was: to make this diſtinction plain to you: It may be you are indebted to a man an 100. pounds, and there is no day ſet for the payment of it; hee may come when he pleaſeth; well (ſay you) Sir come when you will, your money ſhall be ready for you; you lay the 100. pounds by you in a readineſſe, becauſe you do not know certainly when he will come; it may be ſuch a day he comes, and hee knocks at your doores, and calls for the hundred pounds: you may ſay now, his comming is ſudden, and not ſuddain, in reſpect of preparation it is not ſuddain, for you have the money by you; but in reſpect of time
+<pb n="14" facs="tcp:59467:6"/> it is ſuddain, for hee came in a time you looked not for; oh, how many thouſand, thouſand, have warning enough for Time, but as for Preparing for Death, alas what preparation is made! oh, let me labour for the former that Death may never finde mee unprepared, and for the latter the will of the Lord be done. Shall I tell you, one of the rareſt Saints that ever breathed here on earth, dyed quickly, <hi>Moſes</hi> by name; why, ſaith God to <hi>Moſes, Moſes go up into the Mount and dye;</hi> nothing but this, <hi>Go up, depart and dye:</hi> thus <hi>Moſes</hi> dyed. So <hi>Aaron</hi> (as a man may ſay) he is onely ſtrip't of his cloaths, and ſo he dyes; this is the firſt thing that I would have you conſider, con<g ref="char:EOLhyphen"/>cerning her death.</p>
+                  <p>And ſecondly, this I adde, (ſeeing that the Lord was pleaſed that this death ſhould be) how ſeaſonable was it that at this time<note place="margin" type="runsum">Her death was ſeaſo<g ref="char:EOLhyphen"/>nable.</note> ſhe ſhould be taken out of this world unto God? how it is with o<g ref="char:EOLhyphen"/>ther men I know not, this I am ſure of, that a child of God, as gene<g ref="char:EOLhyphen"/>rally at all times, ſo eſpecially towards the evening will goe unto God, and make even his reckonings with him, that ſo if death ſhould come to him in the night, and his Bed ſhould be his Grave, yet then his ſoule might go to Heaven; Now though ſhe had been againe and againe with her God that day, both in private and in publique, yet ſhe is not weary, but as <hi>Moſes</hi> goes up into the Mount, ſo ſhe ſtill goes into her Parlour unto her God in Prayer, and at that time ſhe cloſes with her God ſo, that Hee was pleaſed to ſeize upon her body, and ſo preſently after, her ſoule departs unto the Lord Jeſus. Here I bring in her death in her Prayer, <hi>to wit,</hi> as when the River is going towards the Sea, the Sea at the Tyde comes out, as it were to ſalute it, and to bring it in; ſo this bleſſed Saint, oh! ſhe was running faſt towards heaven, and ſhe was almoſt in heaven all that day after the Sermon; well now, the Lord ſeeing her make ſuch ſpeed towards him he comes down to meet her, and now hee hath taken her unto himſelf, this for ordinary duties both in pub<g ref="char:EOLhyphen"/>lique, private, and ſecret, reſpecting the ſecond Commandement.</p>
+                  <p>Now for extraordinary duties, this on my owne knowledge alſo<note place="margin" type="runsum">Her du<g ref="char:EOLhyphen"/>ties extra<g ref="char:EOLhyphen"/>dinary.</note> I ſpeak, that ſhe conſtantly every weeke did keepe a private Day of Humiliation, retiring her ſelf alone, and ſpending ſome part of the day with her husband, and that in examining of her heart, &amp; hum<g ref="char:EOLhyphen"/>bling of her ſoule, in reading and in meditating, and yet ſuch was
+<pb n="15" facs="tcp:59467:6"/> her wiſdome, that ſhe caſt things ſo, as ſhe might not be interrupted by thoſe occaſions which ſhe might meet withall, either in the world, or in the family. This for the ſecond Commandement.</p>
+                  <p>For the third, for her reverencing of Gods Name, it is no great<note place="margin" type="runsum">
+                        <hi>To the</hi> 3. <hi>Comman<g ref="char:EOLhyphen"/>dement.</hi>
+                     </note> matter for me to ſay, I never heard her ſwear (as I never did) du<g ref="char:EOLhyphen"/>ring all that ſeven yeers that I lived with her, and I am perſwaded had I lived 70. yea 100. yeares with her, I ſhould never have heard her ſwear; no, no, more then that, ſhe feared an oath; and this evi<g ref="char:EOLhyphen"/>denceth that ſhe had reſpect unto the thitd Commandement.</p>
+                  <p>And for the fourth, what ſhall I ſay for that, a whole day might<note place="margin" type="runsum">
+                        <hi>To the</hi> 4. <hi>Comman<g ref="char:EOLhyphen"/>dement.</hi>
+                     </note> I ſpend concerning that day: ſhe ſpent it wholly for God: I will tell you nothing but the truth: ſhee did riſe conſtantly at 6. of the clock in the morning, and being up, ſhe firſt went apart ſecretly and commended her own caſe unto God in Prayer, and ſhe did reade Gods Word; then ſhe came forth, and ſhe (to prepare her ſelfe fur<g ref="char:EOLhyphen"/>ther for the publique duties) went to pray with her husband in pri<g ref="char:EOLhyphen"/>vate, or with the Miniſter that was there preſent in the family; af<g ref="char:EOLhyphen"/>ter this ſhe went about ſeven or eight of the clock unto the publique place of Gods Worſhip, where ſhee ſpent all the forenoone, untill dinner: preſently after dinner, ſo ſoone as the ſervants had dined, ſhe occaſioned their calling in; then was an account given by them of what they had heard that forenoon, and uſually this continued untill the time that the Bell ceaſed ringing, then ſhe went to the Houſe of God again, and there ſhe ſpent all that time which was alotted for the publique Worſhip: then ſhe returned backe again<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, and preſently after, before ſupper, the ſervants were called in again an account was given concerning the Word that they had heard, and oftentimes, oh! with affection would ſhe ſpeake unto her ſer<g ref="char:EOLhyphen"/>vants, (eſpecially now of late) Oh! remember this; when a ſeaſo<g ref="char:EOLhyphen"/>nable Truth was delivered. What did ſhe yet before ſupper? why, ſhe retires her ſelfe in ſecret, ſhee goes to God in prayer, and what then? why, preſently after ſupper, the ſervants were a third time called in, an account was ſtill given of the Word that they had heard, what this or that ſervant could ſay, ſo as they were able to anſwer in ſome method, for method helpes both judgment and me<g ref="char:EOLhyphen"/>mory: then the whole Family, the Church, the Word of God, and all was commended unto the Lords bleſſing, and we were fitted and
+<pb n="16" facs="tcp:59467:7"/> prepared for to take our reſt; Loe here a Saint of God ſpending the Lords day graciouſly. And this was her conſtant courſe: had ſhee done it once or twice onely, it had bin leſſe, but it was her conſtant courſe; thus I have led you along in ſpeaking ſomething of her concerning her carriage towards God both in the Goſpell, and in the Law, theſe are main things, beleeve it, theſe are ſpeciall things, and in all theſe the authority of God overawed her, and the love of God conſtrained her to do what ſhe did.</p>
+                  <p>Now we come to ſpeak ſomething of her in relation unto man,<note place="margin" type="runsum">Her con<g ref="char:EOLhyphen"/>verſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>tion towards man.</note> and there you may ſee, that though ſhe hath gained, yet wee have loſt; I have heard it reported of her by a man that was not apt to flatter, he ſaid plainly, That of all the perſons in the world, with whom he did converſe, he never knew her equall in all things, and I confeſſe ingeniouſly and ſincerely, that I have beene acquainted with divers in the Southern, in the Weſtern, and in the Northerne parts, but for all things both towards God and man, I never knew her equall.</p>
+                  <p>But more particularly in reſpect of the Church, and People of<note place="margin" type="runsum">Towards th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Church and people of God.</note> God, (to begin with the beſt firſt) oh the Church of God hath a great loſſe: She was but a woman, but ſhe was a moſt valianr Soul<g ref="char:EOLhyphen"/>dier, one that could fight with the enemies of the Church of God, yea wraſtle with God himſelf by her praye<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s, and tears, theſe are the weapons of the Church, without which let a mans ſpirit be never ſo couragious, yet if he go not out with God, all his courage and ſtrength will but little availe: thus the Church of God for a friend, hath loſt one.</p>
+                  <p>Look now unto the Miniſters of the Church of God, and to the members of the Church of God, this is the truth; For the Miniſters<note place="margin" type="runsum">Towards Miniſters of Gods Word.</note> of Chriſt, I have wondred at her carriage towards them, and what if I ſhould ſay alſo of her bounty towards them; Concerning the members of Chriſt,<note place="margin" type="runsum">T<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>wards the Mem<g ref="char:EOLhyphen"/>bers of Ch<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>iſt.</note> the Saints of God, yea all the Saints of God, yea the pooreſt Saint of God, with whom ſhe was acquainted, every one of them was her dearly beloved. I do not know a Child of God that was acquainted with her, but he will ſeal unto this truth, that ſhe loved the Saints, all the Saints, and that therfore, even becauſe they were Saints. This I know, that in her eyes a vile perſon was contemned, but (as the Pſalmiſt ſpeakes) ſhee made much of them
+<pb n="17" facs="tcp:59467:7"/> that feared the Lord. Well then, Church of God thou haſt a loſſe; Miniſters and Members of the Lord Jeſus ye alſo have a lo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſe.</p>
+                  <p>In relation now unto the family, to the City, to friends, to foes, to Pariſh, to Poor, to all. In relation to the family, to the head of the family, oh, ſhe was a dear, obedient, and faithfull wife: oh, a<note place="margin" type="runsum">T<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rds her family</note> loſſe unto him: what! for the outward man? yes, a loſſe that way: but eſpecially for the inward man; oh, her preſence, her counſell, her company, her prayers for the ſoule of her husband above thou<g ref="char:EOLhyphen"/>ſand thouſands yearly. A loſſe thus unto the inward man of her husband, ſhe was every way unto him a meet help indeed, and this now in the want of her is both known and felt; and for her Chil<g ref="char:EOLhyphen"/>dren, ſhe had many taken away from her by death, very young and tender, but for that which remains, oh her care over her! oh her prayers for her and with her! ſhe it ſeemes for other times (this ex<g ref="char:EOLhyphen"/>cepred) uſed to take her daughters along with her, to pray with her: Oh a loſſe thus in reſpect of her husband! oh a loſſe thus in re<g ref="char:EOLhyphen"/>ſpect of her daughter! this is known and felt. For her ſervants in the Family, before I knew her 20. yeares, it was her conſtant courſe to Catechize her ſervants, and now lately more eſpecially, ſhe was put<g ref="char:EOLhyphen"/>ting on to that duty: oh her love u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the ſoules of her ſervants! Concerning her kind<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ed on his ſide, on her ſide, they may come in and ſay, Not only husband and daughter, and ſervants, but we alſo have loſt a great loſſe Concerning the City now, and thoſe that ſhee converſed withall in it, truly, when I remembred what was once ſaid concerning <hi>A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſius,</hi> in his p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aiſe and commendation, I could not keep my thoughts from running upon her, ſhe was (as it is ſaid of him) both <hi>Magnes &amp; Ad<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>mas,</hi> both <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Load-ſtone and an Adamant; as a Load-ſtone ſhe did draw others ſweetly by her carriage; and a woman ſo grave, and yet a woman ſo cheerfull ſeldome have I ſeen; yet ſhe was as firme for God as an Adamant, not yeelding unto any thing, whereby Gods glory might be any way impe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ched, or his wil might be diſobeyed. For thoſe morall vertues, which wee toucht up<g ref="char:EOLhyphen"/>on before, as her <hi>Juſti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e,</hi> her <hi>Temper<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>e,</hi> her <hi>C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ur<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>e,</hi> yea and that rai<g ref="char:EOLhyphen"/>ſed higher, her <hi>coura<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>r G<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d,</hi> her <hi>pa<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>n</hi> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> in her calling, her <hi>mee<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>en<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e,</hi> her <hi>m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>,</hi> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ſhe was admirable: Thus b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>th Family and City, the perſons therein with whom ſhe converſed, in reſpect <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>f both there is a loſſe</p>
+                  <p>Looke to friends now, and to foes alſo<g ref="char:punc">▪</g> to have a friend that is a
+<pb n="18" facs="tcp:59467:8"/> Saint, and to love an enemy; both theſe are marks of grace. For the former, I have already told you of it; and for the latter, this I have been told, that I having had ſome occaſion to ſpeake ſomething of that ſubject, ſhe could freely ſpeak, what a large heart the Lord had given her for her enemies, to pray for them, and to do them good both in word and deed, and this but about ſome 8. houres before he<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> death. And for the Pariſh, they themſelves well know that they have loſt a <hi>Matron,</hi> and loſt a <hi>Motber</hi> indeed. And for the poore, this was her conſtant courſe every week, to lay up ſomething for them, to ſee how the Lord would have it. In the morning of that day on which ſhe dyed, about the poore neighbour for whom we prayed, ſhe was imploy'd in making ſomething ready for him, yea ſending mo<g ref="char:EOLhyphen"/>ney to him, yea a third time ſending; and that it might not be done for oſtentation, ſhee would ſometimes charge the ſervant that car<g ref="char:EOLhyphen"/>ryed the almes, to give the almes ſo as to conceal the name; thus both Pariſh, and Poor, all have a loſſe.</p>
+                  <p>Now for her two-fold outward ſtate, as thus ſhe carried towards all perſons, ſo thus alſo ſhe carried in all eſtates; ſtill ſhe was con<g ref="char:EOLhyphen"/>ſtant with her God, in the time of proſperity, ſo humble, ſo thankful, ſo bountifull, and liberall ſhe was: In the times of any croſſe, or loſſe, or adverſity, oh, then the ſtrength of the patience, and long-ſuf<g ref="char:EOLhyphen"/>fering of this godly ſoule! oh, what wiſdome did ſhe ſhew! what ſubjection unto Gods will, nay, what fruitfulneſſe alſo after the af<g ref="char:EOLhyphen"/>fliction was paſt; thus did ſhe go through ſufferings. She told me not long ſince, that the Lord had anſwered every prayer that ſhee had put up, as if he ſhould have ſaid to her, why, child, I will both direct thee what to ask, and I will alſo anſwer thee in what thou askeſt; as the Lord ſaid to <hi>Moſes</hi> concerning the people of <hi>Iſrael, Let mee a<g ref="char:EOLhyphen"/>lone:</hi> ſo concerning her laſt deare child, I ſhall never forget her words, Ah (ſaith ſhe) I could never yet get my heart inlarged in praying for his life, becauſe (to wit) the Lord had a purpoſe to take him unto himſelfe; therfore he reſtrained the ſpirit of his ſervant, from being ſo inſtant with him in praying for his life. Thus you have ſeen ſome things in relation to God, to man, to perſons, to things, to ſtates. Now for the ſecond thing that we propounded, that is, concerning her heavenly mindedneſſe; eertainly her converſation was in heaven, for all her endeavors did tend thitherwards; nay, ſhe
+<pb n="19" facs="tcp:59467:8"/> had a heart ſet for heaven, and ſhe had ſet her affections on things above long before. And for the world, oh how often would ſhe ſpeak of that, as having her heart taken off from the world; and finding that the things of the world did ſteal away her hear<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, ſhe cuts of the affection by taking away the occaſion; What ſaith ſhe, you things of this life do you begin to ſteal away my heart from heaven and hea<g ref="char:EOLhyphen"/>venly things? away with you, let not me be troubled with you; that therefore which the men of the world do look after ſo carefully, as loving it dearly, even their gold and ſilver, ſhee finding it ſomewhat to incroach upon her affections, her husband muſt have it, ſhee will not keepe it; and in reſpect of her expreſſions many and many a time concerning her deſires to be abſent from the body, that ſhe might be preſent with the Lord, oh, how Saint-like did ſhe expreſſe her ſelfe? Now ſeeing in this manner (as you have heard) towards God, and towards Man, in the uſe of all good means ſhee was walking &amp; ſtep<g ref="char:EOLhyphen"/>ping on ſtill towards heaven; and ſeeing that ſhe, (ſetting heaven and the Lord Jeſus before her) thus preſſed hard forward toward the Mark for the price of her high calling, wee may ſay two things for concluſion: Firſt, we may ſay this, That though we have loſt, yet ſhe hath gained to eternity: And ſecondly, this alſo wee may ſay (and ſo I come unto my Text) that though many have done vertuouſly, yet may I not ſpeak of he<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> as <hi>Salomon</hi> doth ther<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> haſt not thou excelled them all? And ſo from her unto our text wee paſſe with what brevity may be.</p>
+               </div>
+               <div type="text">
+                  <head>THE SERMON.</head>
+                  <epigraph>
+                     <bibl>PROV: 31. 29.</bibl>
+                     <q>Many Daughters have done vertuouſly, but thou excelleſt them all.</q>
+                  </epigraph>
+                  <p>
+                     <seg rend="decorInit">I</seg>N the latter end of this laſt Chapter there is a commenda<g ref="char:EOLhyphen"/>tion of a vertuous and godly woman, poſitively from the tenth verſe unto my text, and here in my text compara<g ref="char:EOLhyphen"/>tively. The words divide themſelves into two parts: the
+<pb n="20" facs="tcp:59467:9"/> former part is this, <hi>Many Daughters have done vertuouſly:</hi> the latter part this, <hi>But thou excelleſt them al<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</hi> Seeing then what is ſaid here, is for the Praiſe, Commendation, and Honor of a vertuous and godly woman, we will therefore from the words at this time handle this one truth.</p>
+                  <div type="doctrine">
+                     <p>
+                        <label>Doct.</label> 
+                        <hi>That though m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ny do <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>er<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>uouſl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>, yet ſone of Gods people do excell in gra<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>e, and this is their praiſe and glory.</hi>
+                     </p>
+                     <p>We ſay ſometimes of the lives of women, as <hi>Origen</hi> once ſpake con<g ref="char:EOLhyphen"/>cerning them, that if they be good they are very good; though ther<g ref="char:EOLhyphen"/>fore wee might bring to the exa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ples of men in the Scripture that did excell in grace, yet notwithſtanding for the confirmation of this tru<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>h, we will only in<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ance in thoſe of the ſame Sexe with this god<g ref="char:EOLhyphen"/>ly ſoul now departed: And the fir<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> ſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ll be in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ne of her own name, <hi>
+                           <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>za<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>et<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>, Lu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>e</hi> 1 6. there you ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>all find <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <hi>Z<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ch<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ry</hi> and <hi>Elizabe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>h</hi> were two rare and excellent perſons in grace, for there it is ſaid con<g ref="char:EOLhyphen"/>cerning them both, that they were ri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>hteous befo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e God, &amp; blame<g ref="char:EOLhyphen"/>leſſe among<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> men<g ref="char:punc">▪</g> there is one excellent woman. The ſecond that we ſhall name is <hi>T<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>bi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>,</hi> ſhee is de<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>cribed in <hi>Act.</hi> 9. 36, 37. ſhee was a Diſciple, a Profeſſor of the Goſpell, and a woman full of good works, the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e is a ſecond exce<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>len<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> woman<g ref="char:punc">▪</g> The third that wee ſhall name, for a woman that was excellent in gra<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>, is <hi>Mary, John</hi> 1. 11, 20. ſhee was firſt at the grave, and ſhe was laſt at the grave; ſhee ſtayes at the grave, weeping, and mourning, and crying, when <hi>Peter,</hi> that rare Apo<g ref="char:EOLhyphen"/>ſtle, was gone; here was a woman rare for her affection unto Chriſt, her heart did appeare to bee more tende being a woman, then the heart of <hi>Peter,</hi> a perſon of another Sexe: To name yet another, <hi>Rom.</hi> 16. 12. there <hi>Paul</hi> ſalu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>es two godly Matrons, that laboured in the Lord; but ſaith he <hi>ſalute our beloved P<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>ſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>, that laboured much in the Lord;</hi> that is more; Others they laboured in the Lord, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>his was their commendation, but this beloved <hi>Pe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </hi> ſhee laboured and laboured much in the Lord, the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>efore ſhe is eſpecially commended for it.</p>
+                  </div>
+                  <div type="reasons">
+                     <p>
+                        <label>Reaſ.</label> The reaſons of this truth are the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e; The firſt is taken from the inward working cauſes, and they a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e theſe two, Chriſt his ſpiri<g ref="char:EOLhyphen"/>tuall providence, and his peoples ſpeciall diligence. Firſt, Chriſts ſpiritual providence in diſpenſing the gift, for according to his gift ſo is not the truth of grace only, but the meaſu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e of grace alſo, <hi>Eph.</hi> 4 every one hath grace given him according to the meaſure of the gift of Chriſt; and (as the Apoſtle ſpeakes unto the <hi>Corinthians,) The ſpirit</hi>
+                        <pb n="21" facs="tcp:59467:9"/> 
+                        <hi>of Chriſt diſtribute unto every one even as he will:</hi> This bleſſed Head, though he gives unto all, yet notwithſtanding he gives unto all dif<g ref="char:EOLhyphen"/>ferently, to ſome more, and to ſome leſſe, even as he pleaſeth; this for the inward meanes. So for the outward means, by his ſpirituall pro<g ref="char:EOLhyphen"/>vidence he affords unto ſome, more and greater meanes, and a longer time, to others leſſe: He alſo doth bleſſe the means more unto ſome then unto others.</p>
+                     <p>Againe, another inward working cauſe is the ſpeciall diligence of Gods people themſelves, exciting and ſtirring up, and alſo exe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ciſing that grace which is given them, applying the meanes unto their hearts, and bringing all home in private, that was done in publique, this is the reaſon why, though ſome do vertuouſly, yet others do ex<g ref="char:EOLhyphen"/>cell in grace, even their practiſe of Piety, and their Chriſtian dili<g ref="char:EOLhyphen"/>gence. And as thus ye have heard the working cauſes <hi>per ſe, by them<g ref="char:EOLhyphen"/>ſelves,</hi> ſo alſo <hi>per accidens, by accident,</hi> the Lord ſometimes makes the ſence of ſinne a means to break the heart, and that ſinner that hath bin exceeding <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>nful, that ſinner afterwards ſomtimes becomes a no<g ref="char:EOLhyphen"/>table Saint; this is the firſt generall ground from the inward wor<g ref="char:EOLhyphen"/>king cauſes.</p>
+                     <p>The ſecond generall ground is from the finall cauſe, and that is double, <hi>for his owre g<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ory,</hi> and <hi>his peoples good;</hi> for this double reaſon, though others do vertuouſly, yet the Lord will have ſome to excell in grace: Firſt, for his own glo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>y; thus in dangerous times, <hi>Elijah</hi> he muſt ſtop up, the three children they muſt be willing to ſtep into the Furnance, and <hi>D<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>nie</hi> into the Denne, rather then the Religion and Wo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſhip of God ſhall <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e demoliſhed and beaten down: though ther<g ref="char:EOLhyphen"/>fore he have many Worthies, yet the Lord will have ſome ſpeciall Worthies, that not onely ſhall have grace, but alſo much grace, for his honou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. Thus fo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> his own glory th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ugh others do vertu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>uſly, yet the Lord will have ſome to excell in grace. So alſo for the good of his people, to draw them on when they are backward, to ſtrengthen them when they are weake, and to incourage them when they a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e faint-hearted. Why had <hi>Caleb</hi> and <hi>Joſhu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </hi> an excellent ſpirit given them? why? to ſtrengthen and incou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>age others that were weake and f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>int-hearted: therefore when the people were diſcou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>aged <hi>
+                           <g ref="char:V">Ʋ</g>p</hi> (ſay they) <hi>f<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>r not the people of the Land, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>r th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ir ſtrength is de<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>arted f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> them, u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>d th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>y ſhall be but as bread <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>or us.</hi> This from the working <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>,
+<pb n="22" facs="tcp:59467:10"/> and alſo from the finall cauſe, you ſee reaſons why though others do vertuouſly, yet the Lord will have ſome to excell in grace.</p>
+                     <p>But why is this their praiſe and glory? why, the reaſon of that is taken from the definition of true honour; that is truly honoura<g ref="char:EOLhyphen"/>ble, which the wiſeſt and the beſt do ſpeak in the praiſe of; That is not honourable which every man ſpeaks well of, (though I am perſwaded in reſpect of this Saint of God, who ever he or ſhe was that did ſpeak againſt her, while the tongue was againſt her, the conſcience was for her,) but that is truly honourable which is commended by the wiſeſt, and by the beſt, by the wiſeſt Prophets, and the wiſe Apoſtles; For the wiſe Prophets when they come to commend perſons, whom do they ſpeak well of? why, holy per<g ref="char:EOLhyphen"/>ſons, holy ſoules, the Saints that do expreſſe the power of grace in their lives: And for a wiſe Apoſtle, tell me, where <hi>Paul</hi> is commen<g ref="char:EOLhyphen"/>ding any but a Saint eſpecially: nay, if an Angell muſt come from heaven to ſpeak in the praiſe and commendation of any man here on earth, it ſhall be onely in praiſe and commendation of a Saint; this is plain in the 9. of <hi>Daniel,</hi> there <hi>Daniel</hi> is humbling of his ſoule, and breaking of his ſpirit for his own ſinnes, and the ſinnes of the people; well, now an Angell is diſpatced from Heaven with a meſſage to him, and he brings him this newes, <hi>Oh</hi> Daniel <hi>thou art a man greatly beloved;</hi> thus an Angell will rejoyce to bring good ty<g ref="char:EOLhyphen"/>dings from Heaven, for the praiſe and commendation of a Saint upon Earth. But what do I ſpeak either of Saints or Angels, even God himſelfe doth account their death to be precious, hee hath a high opinion of them, he hath high prizing thoughts of them, as you have heard Here you ſee the reaſons of this truth, why though many doe vertuouſly, yet ſome of Gods people do excell in grace, and this is their glory and honour. We have a queſtion before we c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>me to Application, it is this; Wherein appeares this excellency in grace? I anſwer in ſhort, It appeares in the matter that is done or ſuffered, and in the manner of doing it: Firſt, in the matter that is to be done, both in avoiding evill, and in doing good; For the avoiding of evill (and all this you ſhall ſee in this godly ſoul that we have diſcourſed of) She is a woman of an excellent ſpirit, that indeavours ſo to avoid all ſinne, her ſpeciall ſinne (which <hi>David</hi> cals <hi>his owne iniquity,</hi> and the ſpeciall ſinnes of the time; here is an ad<g ref="char:EOLhyphen"/>mirable
+<pb n="23" facs="tcp:59467:10"/> ſpirit indeed; and certainly herein did this bleſſed child of God ſhine out moſt chearly, in that ſhe laboured to avoid all finne, and her own ſinne, and the ſinnes of theſe dayes and times.</p>
+                     <p>Again, for the doing of good, ſhe that indeavours to perform all duties, and eſpecially her duties, and thoſe duties that the world hates, and ſcornes, and ſpeakes ill off, certainly ſuch a woman as this, is of an admirable ſpirit; yet this alſo was the ſpirit of this Saint of God, in that ſhe indeavoured to do all duties injoyned: and for thoſe that concerned her in her place, ſhe ſhined out admi<g ref="char:EOLhyphen"/>rably in them; yea, ſhe was conſtant and diligent in performing thoſe duties, which a wicked heart moſt hates, as redeeming of the time, walking preciſely, growing in grace, ſtanding for God with zeale of heart, and the like; this argues an excellencie: And as thus in doing the will of God in his command, ſo alſo for a patient ſubjecting unto the will of God in his providence. Though the Saint of God had much experience in matter of proſperity, yet ſhe had had alſo great experience in matter of adverſity, yet notwithſtan<g ref="char:EOLhyphen"/>ding was not that an admirable ſpeech of her: <hi>I<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> is the Lord, let doe what ſeemes him good? had any d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ne this but the Lord, I ſhould never have borne it, but ſeeing the Lord hath done it, why ſhould I be impatient under it.</hi> Nay, when her Child, her dear and onely Sonne was dead, this was that which ſtayed her ſpirit, that the Lord had done it.</p>
+                     <p>And as thus for the matter, ſo alſo for the manner too, when this is done ſincerely, with conſtancie and continuance, truly that was a pretty time of tryal which ſhe had for 30. years together, and for the meaſure thus, with zeal, when this manner and meaſure is added to that matter, there muſt needs be an excellencie; together with this effect <hi>growth in grace,</hi> and this end, <hi>the glory of God,</hi> when for for the matter it is thus univerſally, againſt all ſinne, our ſinne, and the ſinnes of the Time; unto all duties, our duties, and the contem<g ref="char:EOLhyphen"/>ned duties of the Time. And thus in reſpect of ſuffering, patiently ſubmitting unto the will of God, and when for the manner, it is thus, ſincerely for truth, conſtantly for continuance, zealouſly for meaſure, having this effect, growth in grace, and this end, the glory of God, this muſt needs be excellent indeed. Thus you ſee wherein this excelleney appears.</p>
+                  </div>
+                  <div type="applications">
+                     <div type="application">
+                        <pb n="24" facs="tcp:59467:11"/>
+                        <p> Now the application will be threefold, unto the wicked, unto the godly, and unto all. Is this a truth then firſt for wicked men, concer<g ref="char:EOLhyphen"/>ning themſelves, and concerning others? See ſometimes this way, Firſt, concerning themſelves, what doe they think to be the glory and excellency of a man or woman? truly to have thoſe titles, pla<g ref="char:EOLhyphen"/>ces, riches, and means in the world, to have that eſteeme and repute in the world, oh this is a rare thing indeed; this is the judgment of a man of the world. But now concerning grace, and goodneſſe, aske them whether that be an excellent thing, yea or no, and they muſt muſt needs tell you (if they will but confeſſe the truth) that they think not ſo; if they ſhould ſay ſo, they muſt needs lye, becauſe their whole practice is againſt it: certain<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>y, if this be a truth which wee have confirmed, theſe perſons do erre in their judgments, in judging thus of the honour and glory of any perſon; nay, another errour is this, that although in their life time they ſhew very little, nay, indeed nothing at all in a godly way for which they ſhould be commen<g ref="char:EOLhyphen"/>ded, yet notwithſtanding when they come to dye, if a Miniſter be to preach for them, and in preaching will not ſpeak in their praiſe and commendation, they think him a ſtrange Preacher: why, you heare that we muſt onely ſpeak in the praiſe of ſuch as do excell in grace, theſe onely we muſt commend; would'ſt thou be commended when thou dyeſt? oh man live godly while thou liveſt. Art thou a Drun<g ref="char:EOLhyphen"/>kard? art thou a Swearer? art thou a Sabbath-breaker? art thou an oppoſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> of goodneſſe whileſt thou liveſt? and yet notwithſtanding when thou commeſt to dye, a Miniſter of Chriſt muſt ſtand up in the place of God to praiſe and to commend thee?</p>
+                        <p>And as thus for an error in judgment, ſo alſo for an evill in heart, What is that which wicked men do love? What is that which they affect? is it grace? is it an excellency in graces though certainely a righteous man (as the text hath it) is more excellent then his neighbour, yet notwithſtanding a wicked wretch that is neighbour to a godly man, he thinkes not ſo of him, nor anſwerably is he affe<g ref="char:EOLhyphen"/>cted towards him. What? doſt thou not think a godly man better then thy ſelfe, (I ſpeak to a wicked Wretch) nor art thou anſwera<g ref="char:EOLhyphen"/>bly affected towards him? and the Lord ſaith ſo directly, <hi>Ther righte<g ref="char:EOLhyphen"/>ou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> 
+                              <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap> is more excellent then his neighbour.</hi> What? are perſons more willing to be bad and vile, then to be ſo accounted, and ſo called?
+<pb n="23" facs="tcp:59467:11"/> yet how many are there that cannot indure to be evill ſpoken of, who yet will do moſt vildly, moſt unworthily.</p>
+                        <p>And concerning an excellencie in grace, many a one is afraid to be too hot and zealous for God, leaſt that he ſhoul'd be ſcorned and derided by the wicked of the world. I wiſh it might not be found true of many a one, that the praiſe, account, and opinion of men hath not too much byaced the matter, ſo that they dare not ſtrictly conforme in all things to the will of God in their lives, leaſt they ſhould hear ill of thoſe of whom they would be commended. Thus men do erre in their judgments; they ſhould preferre the teſtimony of their conſciences in pleaſing the God of Heaven, before the praiſe and commendation of all the men and women in the world. Where find we amongſt theſe men that I am ſpeaking of, ſuch a man as that Heathen was, of whom it was ſaid, <hi>That ſo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ner a man might plucke the Su<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ne ou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> of his S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>hear, then draw him aſid<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> out of the courſe of Juſtice;</hi> Oh this great Idoll in the world! this eſteeme and re<g ref="char:EOLhyphen"/>pute! it draws perſons aſide wonderfully, an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> they think it <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> diſ<g ref="char:EOLhyphen"/>gracefull thing <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ometimes to do that which God commands: yea, adde one thing more, when men are aſhamed and afraid to be too good, and yet they are neither aſhamed nor afraid to be too bad, It is an old ſaying, and it is a true one, <hi>Qui timet <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ſſe bonus, non timet eſſe ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>us. If you ſee a man afraid to be good, that man ſurely is not afraid to be evil.</hi>
+                        </p>
+                        <p>And as for that ſingularity in goodneſſe (which indeed is the excellencie that I am ſpeaking of) how is that evill ſpoken of? many a man is afraid to be thought ſuch a one. It is the Obſerva<g ref="char:EOLhyphen"/>tion of a learned godly Divine, <hi>Perſons,</hi> ſaith he, <hi>would bee ſingular in every thing, but in one thing,</hi> that is, <hi>in gr<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>e, in goodneſſe,</hi> and <hi>in god<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>i<g ref="char:EOLhyphen"/>neſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>,</hi> for wealth a man would be the richeſt man in the Pariſh, nay for Pride, perſons would be above any in the City; what? do men affect ungularity this way in riches, and in pride, and yet when they ſhould come to be ſingular for goodneſſe, they will be as their neighbours then, they are afraid to be too good, yet they are no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> af<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>aid to be too proud; this for the firſt uſe.</p>
+                     </div>
+                     <div n="2" type="application">
+                        <p>
+                           <label>Uſe 2.</label> This lookes d<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>ectly on Gods people, is this a truth, that though many doe vertuouſly, yet ſome do excell in grace? then
+<pb n="24" facs="tcp:59467:12"/> for the people of God thus: Are they ſtronger, or be they weaker, in reſpect of themſelves, or in regard of others, they may learn ſome<g ref="char:EOLhyphen"/>thing from hence; for thoſe that are ſtronger in the higheſt forme, let them firſt walke humbly: amongſt the graces that make perſons to ſhine and to be rare; <hi>Humility</hi> is one: You know what the Apoſtle ſpeakes, <hi>Who made thee to differ?</hi> and the ſame Apoſtle writes a whole Chapter, &amp; all for this end, to take off thoſe in the higher form from Pride, and thoſe in the lower forme from Envie, in reſpect of thoſe gifts of edification, eſpecially in 1 <hi>Cor.</hi> 12. And <hi>Paul</hi> himſelfe a man excellent in grace, and full of it, yet ſaith he, in 1 <hi>Cor.</hi> 16. 10. <hi>By the grace of God I am that</hi> I <hi>am,</hi> for my ſpirituall being I give it onely un<g ref="char:EOLhyphen"/>to Gods grace; and, <hi>I laboured,</hi> ſaith he <hi>more abundantly then they all;</hi> How novv <hi>Paul?</hi> doſt thou take any thing to thy ſelfe? mark how he corrects himſelf immediatly, <hi>Yet not I, but the gra<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>e o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> God in me,</hi> ſaith he; thus ſtill he gives all to God, this is the firſt thing, That they who are in the higher forme ſhould doe, they ſhould walke humbly.</p>
+                        <p>Secondly, And as thus walk humbly, ſo alſo let them walk thank<g ref="char:EOLhyphen"/>fully, oh give thankes unto that God who hath called you out of the world, and made you rare and excellent in grace &amp; goodneſſe, had the Lord made another vvorld, and given you it all, it had bin nothing to this to give you grace, and that grace wherein you doe excell: be thankfull therefore according to the ſight and ſence of grace.</p>
+                        <p>Let them walk alſo with comfort and cheerfulneſſe; what is that that makes a child of God go ſadly and heavily? why this, a<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>s he is afraid that all is not well at home, but if the Lord come in, and ſhew himſelf powerfully and ſweetly unto his ſoule, then as he ſhould give the glory of it unto God, ſo he ſhould take the comfort of it unto himſelf.</p>
+                        <p>Thirdly, let them walk wiſely, yet let them alſo walk reſolutely; I have wondred at the wiſdome and reſolution of <hi>Daniel,</hi> he was a man ſo reſolute for God, that though he was a man of great im<g ref="char:EOLhyphen"/>ployments, being <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>et over 120. Princes, who had rule over 127. Pro<g ref="char:EOLhyphen"/>vinces, and though it is likely that his enemies did vvatch him, to ſee it in any ſort he had neglected the Kings bu<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>neſſe, yet notwith<g ref="char:EOLhyphen"/>ſtanding they could find no fault a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> all in him that way, ſuch was
+<pb n="25" facs="tcp:59467:12"/> his vviſdome. And for his reſolution, nay, ſaith he, rather then I will not pray to the God of Heaven, the Lyons ſhall devour me; and before I vvill defile my ſelf with that meat, I will venture life &amp; all.</p>
+                        <p>But may ſome ſay, was not this reſolution of <hi>Daniel</hi> an impeach<g ref="char:EOLhyphen"/>ment of his vviſdome? no, I vvill ſhevv you three rare men, vvho though they vvere reſolute for God, yet you ſhall ſee alſo that they were very wiſe;</p>
+                        <p n="1">1. The firſt was this of <hi>Daniel,</hi> ſo wiſe a man vvas he, that the Proverb runs of him, What? as vviſe as <hi>Daniel?</hi> He had the matter revealed unto him, vvhich vvas not revealed unto any other man in the World, yet notwithſtanding, his diſcretion and wiſdome will not keep him in a moderate frame, but he is reſolute for his God. The ſecond example is that of <hi>David,</hi> of whom the 200. men ſpake, that he was as wiſe as an Angell of God; yet notvvithſtanding, his vviſdome did not hinder his reſolution for God; therefore when ſhe had that laid in his boſome, even <hi>Michol</hi> his vvife check't him for his zeal, <hi>What,</hi> ſaith he to her, <hi>is this to be vile?</hi> I <hi>will be more vile yet.</hi> The third is <hi>Moſes,</hi> he muſt be as God to <hi>Aaron,</hi> there is his vviſdome, yet notvvithſtanding make this reſolution, <hi>Heb.</hi> 11. 24. great things are offered unto him, great honors in <hi>Egypt,</hi> great trea<g ref="char:EOLhyphen"/>ſures in <hi>Egypt,</hi> and great pleaſures in <hi>Egypt,</hi> threeſcore temptations, and it is likely that they might cry ſecretly unto <hi>Moſes,</hi> and ſay, Stay <hi>Moſes,</hi> ſtay a vvhile <hi>Moſes,</hi> be not ſuch a foole <hi>Moſes:</hi> vvhat? vvilt thou joyn vvith the people of God, and ſo loſe all thy honour, all thy vvealth, and all thy pleaſures? What novv doth this vviſe man <hi>Moſes?</hi> farevvell all, ſaith <hi>Moſet,</hi> farevvell all, <hi>I will rather ſuff<gap reason="illegible" resp="#MURP" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>r affl<gap reason="illegible" resp="#MURP" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>cti<g ref="char:EOLhyphen"/>on with the people of God, then I will enjoy the pleaſures of ſinne for a ſeaſon.</hi> Oh then what a diſcretion is that which keepes men in ſuch a mo<g ref="char:EOLhyphen"/>derate and luke-vvarm temper, that it vvill not ſuffer them to bee ſo reſolute for God, as for his ſake to be vvilling to part even with all the things in the World, whereas you ſee here the perſons ſo re<g ref="char:EOLhyphen"/>ſolute for God that they vvill venture life and all for him, and yet they vvere very vviſe.</p>
+                        <p>And thus alſo be reſolute, ſo as neither being allured by the dea<g ref="char:EOLhyphen"/>reſt friend, nor affrighted by the bittereſt foe: not being allured by the deareſt friend thus in the <hi>Acts of the Ap<gap reason="illegible" resp="#MURP" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ſtles</hi> you ſhall find, that vvhen they h<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>a<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>d there vvhat <hi>Aga<gap reason="illegible" resp="#MURP" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>us</hi> had propheſied, namely hovv <hi>Paul</hi> ſhould be bound at <hi>Jeruſalem,</hi> the friends of <hi>Pau<gap reason="illegible" resp="#MURP" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>
+                           </hi> (and it is likely
+<pb n="26" facs="tcp:59467:13"/> they were godly friends) they come unto him weeping and crying, Oh <hi>Paul,</hi> go not unto <hi>Jeruſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>lem,</hi> what, wilt thou be bound <hi>Paul?</hi> mark novv hovv <hi>Paul</hi> anſwers them, <hi>Why ſtand ye weeping thus, and breaking my heart?</hi> bound? ſaith he, <hi>I am willing not onely to be bound, bu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> to dye alſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> at Jeruſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>em, for the name of the Lord Jeſus.</hi> A courteous word from a dear friend draws much, yet notwithſtanding, <hi>Paul</hi> there, when his friends ſought by weeping to draw him off from being ſo reſolute for Chriſt, Oh ſaith he, in ſo doing you break my heart; yea, marke alſo the ſpeech of that rare Marqueſſe <hi>Galeaceus</hi> by name, when great proffers <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ere made unto him, if he would do ſo and ſo, <hi>Let him be a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>curſed,</hi> ſaith he, <hi>that thinks all the wealth in the world worthy in any ſort to be compared with one dayes fellowſhip with Jeſus Chriſt.</hi> Thus though we be allured by the deareſt friends, yet vve muſt be reſolute for God: nay, though alſo we be affrighted and ſcorned by the bittereſt foe as <hi>David,</hi> you heard, when his vvife ſcoffed him for dancing before the Ark (where ſhe played the part of a bitter foe) What? <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>aith he, <hi>am I vile for this, and I will <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>e more vile y<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>t.</hi> So <hi>Lu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>he<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>,</hi> great offers were made unto him, and great thunderings were ſent againſt hi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>, yet he was <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>eſolute for God ſtill. And ſaith <hi>Nehemi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>h</hi> that great Re<g ref="char:EOLhyphen"/>former, <hi>Shall ſu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>h a man as I fl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>e?</hi> he would reſolutely ſtand for God. Thus you ſee what advice may be given unto thoſe that doe excell in grace, they ſhould vvalk humbly, walk thankfully, &amp; cheerfully, vvalk vviſely, yet alſo reſolutely for God.</p>
+                        <p>The ſecond branch of the Uſe concerns thoſe that are in the lower form, and they are either ſuch as have bin ſtronger, &amp; now are wea<g ref="char:EOLhyphen"/>ke<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>, having weakned themſelves; or els they are ſuch as are weak. For the former; Let ſuch be deeply humbled, &amp; that ſpeedily, in calling to mind the mercies, the merits, the time, and the corrections vvhich have bin afforded unto them, &amp; which they have bin tried withall; let them look on all theſe things to humble their ſouls before God. And 2. let ſuch alſo double their diligence novv. And for thoſe that are vveak, let them pray that what is promiſed by the Lord, <hi>Iſaiah</hi> 40. two laſt verſes, it may be accompliſhed in them; there the Lord ſpeaking of his people, ſaith thus, <hi>They ſhall mount up with wings as Ea<g ref="char:EOLhyphen"/>g<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>es, they ſhall walk and not faint, yea runne and not be weary;</hi> thus then do thou, run to the Lord and ſay, Ah Lord, I am ca<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>t behind in thy way, others do outſtrip me, others get before me, and thou haſt ſaid Lord, that I ſhall vvalk, yea run, yea fly, in running the vvays of thy
+<pb n="27" facs="tcp:59467:13"/> Commandements, make good thy word unto thy poor ſervant Lord; Thus flye to the throne of grace when thou art hindred and caſt behind in travelling to<g ref="char:EOLhyphen"/>wards heaven. Thus for thoſe that have bin ſtrong, &amp; have weakned themſelvs, &amp; are vveak ſtill. And as thus concerning themſelves, ſo alſo concerning others their fellow Saints and brethren, let them thus do, comfo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>t the ſorrowfull, ſup<g ref="char:EOLhyphen"/>port the feeble, and if any man be diſjoynted, joynt him again, as the Apoſtle ſpeaks, <hi>Gal.</hi> 6. <hi>If any man be overtaken in an infirmitie, ye that are ſpirituall reſtore ſu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>h a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> one in the ſpirit of meekneſſe.</hi> And as thus for their indeavour, ſo alſo for their affe<g ref="char:EOLhyphen"/>ction, let it be with them as it was with <hi>David, Pſal.</hi> 16. <hi>All my de<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ights,</hi> ſaith he, <hi>are in the Saints upon earth, and ſuch as do excell in vertue.</hi> So let your ſpeciall love and delight be to the excellent ones upon earth, even unto thoſe that do excell in vertue, and excell in grace. Should a man come unto every man and unto every woman in this place, and ask them this queſtion, vvhat kind of perſons have the higheſt roome in your ſoules? whom d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>e you moſt highly prize and moſt dearly love; this is a moſt ſenſible thing, and b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ing applyed, will come cloſe unto the quick; is it a gracious man yea or no? is it an excellent man in praiſe? yea or no? if it be not from God, I tell thee this day that the Lord marks thee out this day for a bad man; what can be more plain then that in 1 <hi>J<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>h.</hi> 3. 10. by this is manifeſted a chi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                              <desc>••</desc>
+                           </gap> of God, and a child of the Divell: a child of God is one that loves God, an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> 
+                           <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>rk<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>s righteouſneſſe, and he loves his brother, eſpecially his brother in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>race, above hi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> b<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>ther in n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>tu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>e why ye muſt live with thoſe whom ye love. Oh<g ref="char:punc">▪</g> this child of God that is now dea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>, ſhe loved the Saints of God while ſhe lived, and the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ore now ſhe lives with the Saints of God being dead; This loving of the br<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> is not as the cauſe why we are in a bleſſed ſtate, for ſo Chriſt is; but as an evidence; ſo indeed it is. This for the ſecond Uſe.</p>
+                     </div>
+                     <div n="3" type="application">
+                        <p>
+                           <label>Uſe 3.</label> The third Uſe is to perſwade good men, bad men, all men to come un<g ref="char:EOLhyphen"/>to God, and to get much from God, even to excell in grace, that ſo at de<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>th they may be able to ſay in truth what our Saviour ſaid for pe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>fection, Oh ſaith he in <hi>John</hi> 17. 1. <hi>Fa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>her I have finiſht the work which thou gav<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ſt me to d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>, now therefore F<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ther gl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>rifie me;</hi> There was a work given him to doe, and a work given him by God, this work muſt be done, it was ſo; then he prayes, <hi>Now therfore Father glorifie me.</hi> So the Lord hath given thee and given me a work to do, a work in generall, a work in ſpeciall, a work to do, a work to finiſh, and it is the work which the Lord hath given us; now then let it be thy indeavour to finiſh it, and then when death comes thou maiſt pray in truth, as thy Saviour did for perfection, Father, the worke which thou gaveſt me to doe I have done it, yea Fa<g ref="char:EOLhyphen"/>ther I have finiſhed the work that thou gaveſt me to do, now therefore Fathe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> glorifie me. And here now take both the means for this, and alſo the Argument<g ref="char:punc">▪</g> to it. 1. For the means whereby we may come excell in g<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ace (for this is thy glory and this is thy commendation) they are theſe three; 1. The Lord Chriſt the Fountain of grace. 2. The ſpirit of Chriſt, the Author and Work<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                              <desc>••</desc>
+                           </gap> of grace, ſome ſpeciall and particular graces of Gods ſpirit. And 3. the right
+<pb n="27" facs="tcp:59467:14"/> making uſe of the meanes of grace. For the firſt of theſe, <hi>to wit,</hi> Chriſt the foun<g ref="char:EOLhyphen"/>tain of grace. Would a man have grace? yea would a man be full of grace? why, the Text tells us, that there is a fulneſſe of grace in Chriſt, and of his fulneſſe we muſt all receive grace, for grace: And would a man indeed be excellent? let him labour in a ſpeciall manner to be filled with Gods Spirit; oh that evill jea<g ref="char:EOLhyphen"/>ring ſpirit that is in perſons againſt Gods Spirit! at any time at their beſt lei<g ref="char:EOLhyphen"/>ſure, let them read what I would commend unto them, and they ſhall finde in the book of God, that when it is ſaid, that ſuch a man did ſomething that was excellent, then the text tells us, that <hi>the Spirit of God was upon him,</hi> and <hi>the Spirit of God filled him. Sampſon</hi> was a ſtrong man, yet when he did any admirable act of ſtrength, you ſhall find that the Spirit of God ſtirred him up. <hi>Elijah</hi> did great great things, but then the Spirit of God came upon him; <hi>Eliſha</hi> alſo did great things, but then the Spirit of God came upon him. So in <hi>Luke</hi> 1. there it is ſaid, that the Mother of <hi>John</hi> was filled with rhe Holy Ghoſt, and the Father there was filled with the Holy Ghoſt, and then he ſpake unto admiration, <hi>ver.</hi> 37. and 34. So in the <hi>Acts of the Apoſtles.</hi> in the 1. of the <hi>Acts,</hi> there the promiſe is made, that the Apoſtles ſhall be filled with the Hol<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> Ghoſt; and in <hi>Acts</hi> 2. what won<g ref="char:EOLhyphen"/>ders do they? but firſt they are filled with the Holy Ghoſt. So you ſhall find in <hi>Acts</hi> 3, 4, 5. <hi>Then the Apoſtles filled with the Holy Ghoſt,</hi> and, <hi>Then the Apoſtles filled with the Holy Gh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ſt,</hi> did ſo and ſo. So in <hi>Acts</hi> 6. and in <hi>Acts</hi> 7 there is <hi>Stephen</hi> full of the Holy Ghoſt, an admirable man, and <hi>Paul</hi> in <hi>Acts</hi> 11. being full of the Holy Ghoſt ſet his eyes there on a wicked Wretch; who is that? why a man that hin<g ref="char:EOLhyphen"/>dred the paſſage of the Goſpell, that <hi>Barieſus</hi> that ſought to turn the Deputy from the Faith<g ref="char:punc">▪</g> 
+                           <hi>Pau<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>
+                           </hi> looking on him, he ſaid, <hi>Oh full of all ſubtilty and malice, thou child of the Divell, and enemy of all righteouſneſſe, wilt thou not ceaſe to pervert the ſtraight wayes of the Lord?</hi> Thus you ſee that when any, either admirable ſpeech hath bin ſpoken, or any admirable thing hath bin done, ſtill perſons have bin filled with the Holy Ghoſt. Thus labour to partake of the fulneſſe of Chriſt, and labour to be filled with the Holy Ghoſt. And for the ſpeciall grace of Gods Spi<g ref="char:EOLhyphen"/>rit as in the body of a man that is ſtrong &amp; luſty, active, and able, ſome parts are to ſupply with ſpirits for nouriſhments, and for growth, as the ſtomack, liver, and heart; ſo in the ſoul of a child of God, there are certain graces, that are uſefull, for all practiſes, ſuch as are theſe <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> 
+                           <hi>Faith, Hope, Love,</hi> and <hi>Fear,</hi> theſe are all Mother graces h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> but above all, the fi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ſt, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>o, the grace of <hi>Faith!</hi> this will direct a man what he ſhould d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>, this will perſwade a man why he ſhould do, and this will inable a man h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>w he ſhould d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>, yea to work wonders: all the wonders that have bin in the world, have bin w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>nderfull by their Faith. And for <hi>Hope,</hi> that is an admirable grace to make a man rare in g<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ace, d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>e not you remember what is ſaid in <hi>J<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>h.</hi> 1. 3. he that hath this hope, what h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>pe is that? why this hope to ſee Chriſt, and t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> be like him; he that hath this hope, what doth he? why he doth purifie himſelf even as Ch<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>iſt is pure, and that other Text alſo in 2 <hi>Pet.</hi> 3. 11, 12. <hi>Seeing theſe things m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ſt be diſſolved,</hi> 
+                           <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>h <hi>what m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>nner of perſons ought wee to be in all holy</hi>
+                           <pb n="29" facs="tcp:59467:14"/> 
+                           <hi>converſation, and godlineſſe:</hi> why what is the matter? why, <hi>becauſe the time ſhall come when the Heaven ſhall paſſe away with a noiſe, the Element ſhall melt with fervent heat, and the Earth with the things that are therein ſhall be burnt up, and then we looke for <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ew Heavens, and a new earth, wherein dwells righteouſneſſe;</hi> we look for a new Heaven<g ref="char:punc">▪</g> &amp; a new earth, that is, we look for another place of habitation, even in heaven; for properly there is no earth in heaven, but as theſe heavens, and this earth is now the place of our habitation, ſo after death we looke for another place of habita<g ref="char:EOLhyphen"/>tion then this, even in heaven. Seeing then our hope is in heaven to have ano<g ref="char:EOLhyphen"/>ther and a better, a more happy and bleſſed place of habitation, then wee have here below, now therefore what manner of perſons ought we to be. For <hi>Love,</hi> now Faith is an intaking grace, but when it would put it ſelfe out, for the doing of any good, then it takes hold on Love Faith works by love, ſaith the Apoſtle, it works love, and it works by love, and this love of God (as the Apoſtle ſpeaks) will conſtrain a man to live unto God, yea to the utmoſt of his deſires and ind<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>a<g ref="char:EOLhyphen"/>vours; the love of grace will not make a man ſtint himſelf in his de<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>res after grace; no, as thoſe perſons that do love money would not only have this hun<g ref="char:EOLhyphen"/>dred or that 1000. but many hundreds and many thouſands, eſpecially, if they love it, for it ſelfe, then there is no end of their deſires after money: So let a man turn the ſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>eam of his deſires, towards grace, and then he will long after it un<g ref="char:EOLhyphen"/>meaſurably, he will never ſtint his deſires after it, and ſay, Thus much grace will ſerve me, and ſo much grace will content me. And as love thus will put a man on unto that is good, ſo laſtly, for <hi>Feare,</hi> it will pluck a man back from the doing of what is evill; therefore that man there in the book of <hi>Nehem<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ah</hi> was faithfull above many, becauſe he feared God above many Laſtly, the meanes of grace in the uſe and the right uſe of them, when men hea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> Sermons, and then afterwards preach them over and over again to themſelves, that they may have grace in their hearts, and expreſſe grace in their lives. Oh this duty of medita<g ref="char:EOLhyphen"/>tion in bringi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>g things home unto the heart, is one of the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>peciall means to make the ſoule rich, in expreſſing the power of godlineſſe in life and converſa<g ref="char:EOLhyphen"/>tion: this for the means of it.</p>
+                        <p>Now for the Arguments to it, and they are four, <hi>From God, the thing, our ſelves, and others<g ref="char:punc">▪</g>
+                           </hi> Why ſhou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>d thou and I labour thus to be rare and excellent in grace? why firſt becauſe God bids us; if there were no more but this, it is enough for thee and me that God bids us labour to be ſo: thus in 1 <hi>Pe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>.</hi> 5 the Lord is cal<g ref="char:EOLhyphen"/>ling upon us to grow in grace, and in <hi>Mat.</hi> 5. laſt <hi>verſe, Be ye pe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ct as y<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ur <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap> F<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ther is perfect:</hi> what, can we be as perfect as God is? fa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> be we from that con<g ref="char:EOLhyphen"/>ceit, but we ſhould labour to be like unto God, for there he is ſpeaking, how God doth good to the bad: nay God doth good to his enemies now let us b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ing our ſelves unto this rule of perfecti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>n: Certainly if a man doth excell in vertue, and be rare in grace, in the world he ſhall have enemies <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>oſt thou love them? canſt thou pray heartily for them? this is now to be perfect, as thy heavenly <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>
+                           <g ref="char:EOLhyphen"/>ther is perfect. Secondly, look on the thing it ſelfe, it is in it ſelf a moſt c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>m<g ref="char:EOLhyphen"/>mendable
+<pb n="30" facs="tcp:59467:15"/> thing: you ſhall find that the Lord doth ſtudy to find out tearmes to to put upon his people that are rare in grace, for their praiſe and comm<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ndati<g ref="char:EOLhyphen"/>on, as <hi>Abraham, Moſes, David,</hi> and <hi>Daniel;</hi> oh for <hi>Daniel</hi> the Lord comes again &amp; again to him to tell him, Oh <hi>Daniel</hi> a man of deſires, <hi>a man greatly beloved?</hi> the heart of God is ſo taken with him, that herepeats it again. <hi>O<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>
+                           </hi> Daniel, <hi>a man greatly beloved;</hi> that is a rare expreſſion of the Holy Ghoſt, for the praiſe and com<g ref="char:EOLhyphen"/>mendation of ſuch a man as doth excell in grace. Thirdly, look on ou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> ſelvs, in regard of our own perſons in heart, and in regard of life. 1. For our hearts, to have the love of God towards a man, and the bleſſing of God in a ſpeciall man<g ref="char:EOLhyphen"/>ner upon the ſpirit of a man, oh this is an admirable thing indeed; to bee inri<g ref="char:EOLhyphen"/>ched in the world, oh we ſay, this is an excellent thing, and how will men <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>e early, and go to bed late, and all for what? why for this, that the Lord may b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ſe them with a rich ſtate in the world. But, oh the bleſſing of God on the ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ule of a man, in making a man <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ich in grace, this is an excellent thing indeed, one d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>am of grace is worth all the world; now the Lord will inrich tho<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>e in grace that do uſe well the means of grace. <hi>Take heed how you he<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>,</hi> ſaith Chriſt, <hi>for loo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> in what manner of he<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ring you hear, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>nd with what me<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ſure of diligen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>e af<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>er hea<g ref="char:EOLhyphen"/>ring you uſe, ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> God will meaſure out again to you.</hi> Thus in regard of a mans heart with<g ref="char:EOLhyphen"/>in 2. In regard of a mans life without, truly our life is but ſho<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>t, we have a great de<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>l of work to do, and but little time, therfore ſaith the wiſem<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>n, <hi>Eccleſ.</hi> 9. <hi>What ſoever thou findeſt to do, do it with all thy might,</hi> ſaith he; why ſo? why, for as the time is ſhort, ſo after death there is no working then; the time of this life is a working time, after death is the receiving of wages, though a wicked man ſhold do never ſo much in hell, yet that cou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>d not any way comfort him<g ref="char:punc">▪</g> but what he hath done in the body, look to that mainly. And as thus for ou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> ſelvs, ſo laſtly for others, and that both for them, &amp; alſo from them; For them, do<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>t <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>hou wiſh well to thy Countrey? doſt thou wiſh well to <hi>Eng<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>and?</hi> doſt thou wiſh well to this City of <hi>Yor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>e,</hi> to the Pariſh &amp; the Family where thou live<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>t? oh then labour for this excel<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ent ſtate, if thou d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>e excell in grace, thou art the perſon that muſt prevail with God, for wife, for child, for Church, for ſtate, for County, for <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ing<g ref="char:EOLhyphen"/>dom, &amp; all, if there be any hope to prevail with God in mercy, his excellent ones muſt do it<g ref="char:punc">▪</g> but when there is no hope, then ſaith the Lord, Though <hi>Noah, Daniel</hi> &amp; <hi>Jo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>,</hi> ſhould all joyn together in prayer, I would not hear them implying thus much, That then the caſe is deſperate, when ſuch excellent ones cannot prevail. And as thus for others, ſo alſo from others; Would'ſt thou receive ſtrength and incouragement from perſons in the worſt times? why then it muſt be from the Saints that d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> excell in grace In evill and dangerous times, <hi>C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>le<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>
+                           </hi> &amp; <hi>J<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ſhu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>h</hi> who were rare Saints, <hi>Elyah</hi> a rare Saint, &amp; <hi>D<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>niel</hi> a rare Saint, they muſt ſtep up, that ſo from them, Gods people being diſcouraged, &amp; diſtreſſed, might receive com<g ref="char:EOLhyphen"/>fort &amp; incouragement. And here now, Her whom in the beginning I ſet out un<g ref="char:EOLhyphen"/>to you by way of Commendation, I now again ſet before you as a pattern for the imitati<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>n.</p>
+                     </div>
+                  </div>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:59467:15"/>
+                  <p> AN ELEGIE UPON The much lamented Death, of that vertuous Lady, and unparallel'd Matron, ELIZABETH HOYLE, LATE Wife to the Worſhipfull <hi>Thomas Hoyle</hi> Alderman of the City of <hi>Yorke,</hi> who (ſurprized with an Ap<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>plexie at her private Devotion<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>) depar<g ref="char:EOLhyphen"/>ted this lif<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, <hi>Decemb.</hi> 9. 1639.</p>
+                  <q>
+                     <p>Come my people enter thou into thy Chambers, and ſhut thy Doores about thee, hide thy ſelf for a moment, untill the indignation be overpaſt.</p>
+                     <p>For behold the Lord commeth out of his place to puniſh the <hi>Inha<g ref="char:EOLhyphen"/>bitants</hi> of the <hi>Earth</hi> for their iniquity. <bibl>
+                           <hi>Eſay</hi> 26. 20, 21.</bibl>
+                     </p>
+                  </q>
+                  <figure>
+                     <figDesc>woodcut of two pots of flowers</figDesc>
+                  </figure>
+                  <p>YORK: Prrinted by Tho: Broad, dwelling in Stone-gate over againſt the Sta<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>re.</p>
+                  <pb facs="tcp:59467:16"/>
+               </div>
+               <div type="dedication">
+                  <pb n="33" facs="tcp:59467:16"/>
+                  <head>To the Worſhipfull his honoured Friend, M. <hi>Tho: Di<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>kinſon,</hi> Alderman of the City of <hi>Yorke,</hi> &amp; one of the Standing-Committee there, and Treaſuret-Generall of the Army for the City and County, <hi>Health and Happineſſe.</hi>
+                  </head>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>
+                     <seg rend="decorInit">I</seg>N regard of your near alliance to the Subject, and dear ac<g ref="char:EOLhyphen"/>quaintance with the Author of this Sermon, you may challenge of right the Dedication of theſe Lines: And indeed they were long ſince yours, being immediately upon her death preſented to your ſelfe, and your vertuous Conſort her Daughter; ſo you are in every reſpect worthy of them, only my fear is they are unworthy of you. Yet let them not now in your aſ<g ref="char:EOLhyphen"/>cenſions be unwelcome to you, ſeeing when the diſtance was not ſo great I thought you right welcome to them.</p>
+                  <p>Now both that Elogie in the fore-going Funerall Sermon, and thoſe due expreſſions in this inſuing Funerall Elegie, want not the beſt example for their warrant. The Royall Prophet <hi>David</hi> wept and mourned over <hi>A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>mer,</hi> and by his pathetike Oration melted all the people into tears; nay they wept a ſecond time; as how could they contain, when they heard the moving words of a lamenting Prophet, and ſaw the ſwollen eyes of a tender-hearted King? Part of his Oration was, Know you not that there is a Prince and a great man this day fallen in <hi>Iſrae<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>?</hi> ſo the day of this Ladies Fu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>erall there fell a Matron, and though not ſo great, yet (which is much better) a good woman and Mother in <hi>Iſrael.</hi> So fo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> my Elegi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, that ſweet ſinger of <hi>Iſrael</hi> is alſo my Pattern, for he lamented with the like, yet far ſurpaſſing Lamentation over <hi>Saul</hi> and <hi>Jonathan,</hi> part whereof I <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ere inſert, as I long agoe tranſlated it,</p>
+                  <q>
+                     <l>VVeepe, ye Iſacian Daughters, weepe</l>
+                     <l>O're <hi>Saul,</hi> who did ſo bravely <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>eepe,</l>
+                     <l>And cloath you all in Skarlet trimme,</l>
+                     <l>And in all pleaſures made you ſwimme.</l>
+                     <l>'Twas he about your Robes did f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>uld</l>
+                     <l>Thoſe m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e Cbains of beaten Gold,</l>
+                  </q>
+                  <pb n="34" facs="tcp:59467:17"/>
+                  <p> Yet all theſe were but gliſtring trifles, or if treaſures, yet onely Treaſure on earth, ſubject to Moaths, Ruſt, and Theeve<g ref="char:punc">▪</g>s, but the adorning of this Matron was not in the plaiting of the haire, or of wearing of gold, or putting on of Apparell, but in the hidden man of the heart, in that which is not corruptible, even the Ornament of<note place="margin">1 <hi>Pet.</hi> 4. 5.</note> a meek and quiet Spirit, which is in the ſight of God of great price: and in this ſhe ſurmounted all the Daughters of your City, as alſo in many golden rules, and in a ſhining example. Nor was ſhe onely the wife of th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t Merchant, who is known in the Gates when he ſit<g ref="char:EOLhyphen"/>teth among the Elde<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s of the People, <hi>Prov. ult.</hi> 23. but ſhe her ſelf alſo was that Merchant who conſidered a field and bought it, even that field with hidden Treaſure, <hi>M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t.</hi> 13. 44. for which (as the Merchant man for the Pearl, <hi>ver.</hi> 36) ſhe ſold al<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> that ſhe had to purchaſe. In<g ref="char:EOLhyphen"/>deed, the Kingdome of Heaven was her Treaſure and her Pearl, which he<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> body hath <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ill in hope, her ſoule in poſſeſſion, and both ſhortly ſhall enjoy in perfect frui<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ion. If we love her, and would bee with her, let our care be to go to her, ſeeing ſhe ſhall not return to us. In the mean time our tears for her may be wip'd from our eys, ſince all tears are wiped from hers: that which is required of us, is, our repenting for ſinne, not lamenting for her, not our mou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nfull ex<g ref="char:EOLhyphen"/>greſſions, but our chearfull imita<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ion. The Epigrammatiſt did thus revive his old friend <hi>Priſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>us,</hi> upon the death of <hi>Saloninus;</hi>
+                  </p>
+                  <q>
+                     <l>Sed defi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>re, nef<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s: num qui te Priſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e, reliquit,</l>
+                     <l>Vivit, qua veluit vivere p<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rte m<gap reason="illegible" resp="#MURP" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>is.</l>
+                  </q>
+                  <q>
+                     <l>'Twere ſinne to weepe: ſince he for whom you grieve,<note place="margin">Mart. <hi>Epig.</hi>
+                        </note>
+                     </l>
+                     <l>Lives in that part wherein he wiſh't to <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ive.</l>
+                  </q>
+                  <p>She is now where ſhe long long'd to be; her deſire was to be diſ<g ref="char:EOLhyphen"/>ſolved, and to be with Chriſt; with whom we leave her.</p>
+                  <p>Thus it becomes us to ſet forth the vertue and praiſes of her, who ſet forth the praiſes and vertues of him, who hath called us out of darkneſſe into his marvellous light. I<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> is obſerveable in that Text, that the word t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>anſlated Praiſes, ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gnifieth alſo Vertues (as in the margin) wh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ch ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ewes, that only Vertue is Pr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iſe-wo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>thy; ſo the royall Preacher, The woman that feareth the Lord ſhe ſhall bee prayſed, not her favor for that is deceitfull, not her beauty, for that is vanity, but her fear is commended, and her ve<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tue highly prized, <hi>ver.</hi> 10. Eſpecially, if ſhe excell in vertue, <hi>Pſal.</hi> 16. 3. as the righteous do, The righteous is more excellent then his neighbor, <hi>Prov.</hi> 12. 36.
+<pb n="35" facs="tcp:59467:17"/> and a man of underſtanding is of an excellent Spirit, 17. 27. by which we underſtand, the Fear of God, for this is called that good Underſtanding, <hi>Pſal.</hi> 3. <hi>ult.</hi> the praiſe wherof endures for ever. And this grave and underſtanding Matron is that Righteous one, that <hi>Mulier ſtrennua,</hi> that wiſe and vertuous woman, which the wiſe man ſo much enquireth after, and having found advanceth her above all her fellows. Many Daughters have done ve tuouſly but thou ſurmounteſt them all: thus it pleaſeth him who hath called the Poor of this world to be rich in Faith, to make the weaker veſſels ſtrong in Faith; and Daughters of <hi>Abrah<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>m,</hi> whoſe Daughters they are as long as they do well, do vertuouſly, eſpecially, if they excell in thus doing: and indeed this doing vertuouſly is that Practicall, not Speculative beauty on which we ſhould beſtow all our amorous and imbelliſhing phraſes, in the higheſt ſtrains and expreſſions of commendation and glory. Excelling vertues ſhall have extolling praiſe. Now for her, ſuch were her perfections that I know not whe<g ref="char:EOLhyphen"/>ther ſhe more illuſter her Sex, by communicating her immanent gra<g ref="char:EOLhyphen"/>ces unto others, or obſcure it, (as the greater light the leſſe) by her eminent brightneſſe out-ſhining others; ſo that I hope it were no diſparagement to Greatneſſe though I ſhould apply that <hi>verſ.</hi> which was ſung of the Lady <hi>El<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ct<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>eſſe,</hi> to this Elect Lady of the ſame name,</p>
+                  <q>
+                     <l>Tell me if ſhe was not d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſign'd,</l>
+                     <l>The Eclipſe and Glory of Her Kinde.</l>
+                  </q>
+                  <p>Thus we ought, in the beſt manner we <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>an, to honour them that fear the Lord, but above all to honour him who hath put this feare into our hearts, that we may not depart from him: ſo ceaſing fur<g ref="char:EOLhyphen"/>ther to praiſe her, let us never ceaſe to praiſe God for her, and pray unto him for our ſelves, that we may be foll<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>wers of her, even as ſhee was of Chriſt. Now if there be any of her ſiſters that do vertuouſly, yet not ſo vertuouſly, think much that we have bin ſo liberal in her commendations, let them know, that firſt we only do her right; and ſecondly, that we have done them no wrong; for the commendati<g ref="char:EOLhyphen"/>ons of one is not the diſparagement, but rather ſhould be the in<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ou<g ref="char:EOLhyphen"/>ragement of another; and to them we only ſay, Go and doe like<g ref="char:EOLhyphen"/>wi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e. Thus having commended her, I now commend you and yours to the protection of the Almighty, deſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ing you to patronize, and kindly to accept of the weak indeavours of</p>
+                  <closer>
+                     <dateline>
+                        <date>
+                           <hi>Jan.</hi> 20: 1644</date>
+                     </dateline>
+                     <signed>Your truly affectionate Friend to ſerve yo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> in <hi>Chriſt. J. F.</hi>
+                     </signed>
+                  </closer>
+               </div>
+            </front>
+            <body>
+               <div type="elegy">
+                  <pb n="36" facs="tcp:59467:18"/>
+                  <head>A Proſopopeia to Her.</head>
+                  <lg>
+                     <l>
+                        <hi>MAdam,</hi> you ſtrangely left your widowed Friends;</l>
+                     <l>F<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>r ſo t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e ignorant ſtranger apprehends,</l>
+                     <l>Who knew you not: elſe 'twere no wonder, why</l>
+                     <l>She ſhould dye once, that did ſo dayly dye,</l>
+                     <l>You daily mortified your very bre<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>th,</l>
+                     <l>Whi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>h Dying-life, prevents that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>iving Death.</l>
+                  </lg>
+                  <lg>
+                     <l>When to your wonted roome you did repair</l>
+                     <l>You truly powred out your S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ule in prayer.</l>
+                     <l>'Tis ſtrange that in your paſſing was no noiſe</l>
+                     <l>When the remoteſt Heavens did he<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>r your voice.</l>
+                     <l>I<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> ſeems that winged prayer your ſpirit did heare</l>
+                     <l>Amongſt the Cherubins, and they ſtaid it there,</l>
+                     <l>L<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ft us your aſhes. Bleſt that ſervant, whom</l>
+                     <l>T<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e Lord ſo doing findes when <hi>he</hi> ſh<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>l come.</l>
+                     <l>How ſweetly did ſhe ſteal eternitie!</l>
+                     <l>'Tis credible, you thus deſired to dye.</l>
+                  </lg>
+                  <lg>
+                     <l>Bleſt ſoule! what haſte th' impatient Angels made</l>
+                     <l>To fetch thee hence away! they ſeem'd t'invade</l>
+                     <l>Thy crazy Tent, thee to immortalize</l>
+                     <l>Envying Mortality ſo rich a prize.</l>
+                     <l>The prize was great; nor the ſurprizall ſtrange,</l>
+                     <l>For ſtill you long<g ref="char:punc">▪</g>d after this happy ch<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nge,</l>
+                     <l>Were ſicke of love, and Swan-like did divine</l>
+                     <l>Your death; and fainting ſung, <hi>Stay me with Wine</hi>
+                     </l>
+                     <l>And comfort me with Apples: far<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e above</l>
+                     <l>
+                        <hi>The love of Wine, or</hi> Jonathan, <hi>was thy Love.</hi>
+                     </l>
+                     <l>Or your expiring C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nticle might be this,</l>
+                     <l>My Welbeloved's Mine, as I am His.</l>
+                     <l>Or this, <hi>Thou chears me with thy ſtaffe and rod.</hi>
+                     </l>
+                     <l>Or this, <hi>Make no long tarrying O my God.</hi>
+                     </l>
+                     <pb n="37" facs="tcp:59467:18"/>
+                     <l>Or with the Heavenly Bride migh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> dying pray,</l>
+                     <l>So come Lord Jeſu, quickly come away.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Madame,</hi> w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> which of theſe did you expire</l>
+                     <l>When you went up in Chariots of fi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e,</l>
+                     <l>And flaming Raptures, whi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>h Psyram<g ref="char:punc">▪</g>d-wiſe</l>
+                     <l>S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>il<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> tower and wind <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>hem<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>elve within the s<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ies.</l>
+                     <l>Thus having prai<g ref="char:punc">▪</g>d, ſtraightway about you ſprung</l>
+                     <l>A flight of Cherub<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>, in whoſe armes you ſung</l>
+                     <l>A tryumph Pſalm, went up, and now are ſet</l>
+                     <l>With your ſweet Saviour in Mount Olivet.</l>
+                  </lg>
+                  <lg>
+                     <l>If from that Chriſt all Mount you can behold</l>
+                     <l>This darkeſome Vale of tears, and duskie mould,</l>
+                     <l>And ſee from thence your mourners ſwolle<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> eyes,</l>
+                     <l>Wringing of hands, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>d he<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>r their bitter cryes,</l>
+                     <l>Pity and wonder too, Pity our fears;</l>
+                     <l>W<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nder to ſee your C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ffi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> float in tears.</l>
+                     <l>But greater wonder twere to imitate</l>
+                     <l>Your gracious ife: And our own piteous ſtate</l>
+                     <l>Calls for a ſtre<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ming and un eſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nt teare</l>
+                     <l>Tom the our bed to ſwimme, and not your B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ere.</l>
+                     <l>Your S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>viour bids, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nd you, <hi>Weepe not for me,</hi>
+                     </l>
+                     <l>Weep for your ſelves, and your own miſery.</l>
+                  </lg>
+                  <lg>
+                     <l>Sure y<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>u f<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>reſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>w ſome diſmall gloomy day</l>
+                     <l>H<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſtning, which made you make ſu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>h haſt away.</l>
+                     <l>I deed; and did you ſee the <hi>Flying Roule</hi>
+                     </l>
+                     <l>Sent with black execrations, 'gainſt that ſoule</l>
+                     <l>That enters league with death, applaudeth Hell,</l>
+                     <l>And ſets Heaven at d<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſt<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nce, <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nd d<gap reason="illegible" resp="#MURP" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>s ſw<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ll</l>
+                     <l>With word<g ref="char:punc">▪</g> againſt th' A<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>m<gap reason="illegible" resp="#MURP" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>h<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>y: (f<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>r there a<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e</l>
+                     <l>Su<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>h Gian<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>-Atheiſts who th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Sun<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e outſt<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>re)</l>
+                     <l>Did theſe <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ffrigh<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> you hence? make you retire,</l>
+                     <l>
+                        <hi>Aſtrea-li<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>e,</hi> from us, and ſo deſire</l>
+                     <l>W<gap reason="illegible" resp="#MURP" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>h <gap reason="illegible" resp="#MURP" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>eed to be d<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>lv'd? ſo ſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>one be gone,</l>
+                     <l>And hide your ſelf in Heav'ns Pavi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ion?</l>
+                  </lg>
+                  <lg>
+                     <l>It ſeemes that w<gap reason="illegible" resp="#MURP" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>g<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d B<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> was large, and ſpread</l>
+                     <l>S<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> far, that it w<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>u<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d h<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ve i<gap reason="illegible" resp="#MURP" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>e <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ped</l>
+                     <l>In one juſt d<gap reason="illegible" resp="#MURP" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>m<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>, <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nd comm<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>n judgment b<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>th</l>
+                     <l>Clean a<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d unc<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ean, that ſwears, or fears an oath.</l>
+                     <pb n="38" facs="tcp:59467:19"/>
+                     <l>Sure you perceiv'd by ſome thick pitchy cloud</l>
+                     <l>A ſtorm a comming, ſo your ſelf did ſhroud</l>
+                     <l>Vnder the wings of prayer; yet none can ſay</l>
+                     <l>You (coward-like) affrighted run away.</l>
+                     <l>But ſtaid and waited in your private roome</l>
+                     <l>Till you were taken from the ill to come,</l>
+                     <l>And ſnatch<g ref="char:punc">▪</g>d with lingring <hi>Lot.</hi> When ſu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>h <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> name</l>
+                     <l>Is 'ent away, fear in app<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>chin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> fl<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>e.</l>
+                  </lg>
+                  <lg>
+                     <l>How many anxious mind, which now ſurvive</l>
+                     <l>Your ch<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſte unſpotted ſoul<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>, are ſcorcht alive</l>
+                     <l>With fiery Serpents, Worms that never dye,</l>
+                     <l>Which knawing in their <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſcious boſoms, lye!</l>
+                     <l>Wh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſe ak<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ng hearts are pin'd with diſcontent,</l>
+                     <l>Fear<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ng death, Doom-day, or P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>iame<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t.</l>
+                     <l>Whil<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> you w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>th th'He<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ven<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>y Courtiers Feaſt, and paſſe</l>
+                     <l>Y<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ur time in aneternall Ch<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ſtenm<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſſe.</l>
+                     <l>L<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>d we your Ho<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>y Life, that ſo we may</l>
+                     <l>With you, keepe ev<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>r<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ſting <hi>Holy-Day.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>Mirrour of Vertue! ſtill my thinks you live;</l>
+                     <l>Your h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nd I ſee it open ſtill to give:</l>
+                     <l>Your lips I ſee them with an orient ſmile</l>
+                     <l>Enchear the good, your tongue rebuke the vile:</l>
+                     <l>I ſee you frowning brow, untaught to ſoo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>h</l>
+                     <l>The obſtinate, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t his relenting ſmooth.</l>
+                     <l>Your awfull mi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>dneſſe bo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>h y<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ur friends did move,</l>
+                     <l>And enemies, with reverence and with love.</l>
+                     <l>At pride how like an Empreſſe would you ſtorme!</l>
+                     <l>But th'humble found you humbler then a Worm.</l>
+                     <l>Your feet have made two path-wayes from your dore,</l>
+                     <l>Th'one to the Temple, th'other to th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Poor.</l>
+                     <l>But now both wayes, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nd Poor, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nd Temple mourn,</l>
+                     <l>
+                        <hi>Th'<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>hurch</hi> wants Her frequen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Gueſt, <hi>thought has</hi> your urn.</l>
+                     <l>The rich m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> their de<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>r friends, friends bid adieu</l>
+                     <l>To riches and ſuch comforts miſſing you.</l>
+                     <l>The painfull Prophets want their Patroneſſe</l>
+                     <l>Whom your abounding table oft did bleſſe,</l>
+                     <l>And they your table; ſcarce could I d<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ine</l>
+                     <l>Whe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>her your gu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſts or you were more <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ivine.</l>
+                     <l>H<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>w <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>uous was your board! yet how diſcreet!</l>
+                     <l>T<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>reet miſſes a f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>mily, <hi>York</hi> a ſtreet:</l>
+                     <pb n="39" facs="tcp:59467:19"/>
+                     <l>Old Age wants his companion; younger yeers</l>
+                     <l>Their Counſellor, and Infants drink their tears</l>
+                     <l>For lacke of your refreſhings. Every one</l>
+                     <l>Old, Young, Poor, <g ref="char:V">Ʋ</g>
+                        <g ref="char:V">Ʋ</g>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>althy, all their loſſe bemoan.</l>
+                     <l>Th'hungry want their Purveyor, and the Feaſt,</l>
+                     <l>Miſſing its moderator, ſeems unbleſt.</l>
+                     <l>And's even at <hi>Chriſtmas</hi> like a Funerall;</l>
+                     <l>Whiles you (Angel-like) in the Starry Hall</l>
+                     <l>Keep a perpetuall Banket in thoſe roomes</l>
+                     <l>Of Criſtall, where no tear or ſorrow comes.</l>
+                     <l>We feed on both, unpleaſing to the ſence,</l>
+                     <l>O! had we your victorious patience,</l>
+                     <l>Stay'd Wiſdom, Faith, and Hope, then we might b<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>e<g ref="char:punc">▪</g>
+                     </l>
+                     <l>Mountains of trouble with undanted chear.</l>
+                  </lg>
+                  <lg>
+                     <l>You bore twelve children (if I do not erre)</l>
+                     <l>And ſoon eleven of them you did interre.</l>
+                     <l>Nay when your <hi>Iſaac</hi> (ſtruck with that diſeaſe</l>
+                     <l>Which plowes up fleſh and blood, and there ſowes Peaſe)</l>
+                     <l>And your ſweet Granchild by your onely Daughter</l>
+                     <l>
+                        <g ref="char:V">Ʋ</g>
+                        <g ref="char:V">Ʋ</g>ere rent from you, this multiplyed ſlaughter</l>
+                     <l>You bore with conſtancy unmoveable,</l>
+                     <l>Not the leaſt murmurcheard, but all w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s well,</l>
+                     <l>God's only wiſe, and his correction milde,</l>
+                     <l>
+                        <hi>My Fathers Will is dearer than my Childe,</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>And w<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> not all your patience well beſtowed?<note place="margin">2 Cor. 4.</note>
+                     </l>
+                     <l>When for your ſhort afflictions e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſie load,</l>
+                     <l>You challenge now a weight of glorious Joyes</l>
+                     <l>Great as Eternity, and yet ne're cloyes.</l>
+                     <l>Happy exchange! to compaſſe Heaven for earth,</l>
+                     <l>Solid and laſting j<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>yes, for fainting mirth;</l>
+                     <l>Kingdoms for Cities, Ever for a Breath.</l>
+                     <l>And th'great Jeruſalem for N<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>z<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>reth.</l>
+                     <l>Onely your widowed Husband's left bebind,</l>
+                     <l>Thinkes on your abſen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e with a bleeding mind;</l>
+                     <l>May your unwearied ſpirit of patienee b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </l>
+                     <l>Doubled on him, to bear his miſery;</l>
+                     <l>For d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>uble cauſe of griefe doth him purſue,</l>
+                     <l>He miſſetb both bis children de<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>, and you<g ref="char:punc">▪</g>
+                     </l>
+                     <pb n="40" facs="tcp:59467:20"/>
+                     <l>More then ten children to him. Heavie croſſe!</l>
+                     <l>No Merchant ere ſuſtain'd ſo great a loſſe.</l>
+                     <l>Next your ſweet Daughter, and her Husband deare,</l>
+                     <l>True mourners, wait upon your Sable Biere,</l>
+                     <l>
+                        <g ref="char:V">Ʋ</g>
+                        <g ref="char:V">Ʋ</g>ith thouſands more. How ſoon did you bereave</l>
+                     <l>Our Joyes! you left your friends, yet took no leave.</l>
+                     <l>So th'Holy Child of <hi>Nazareth</hi> ſlunck away.<note place="margin">Luke 2.</note>
+                     </l>
+                     <l>From his perplexed Parents: every day</l>
+                     <l>They ſeek and ſigh, and wonder where hee's gone,</l>
+                     <l>The third day (like his Reſurrection)</l>
+                     <l>Reſtores him found. But they amaz'd begin</l>
+                     <l>To check his abſence: Son, where have you bin?</l>
+                     <l>Our heart akes for you. Sharply then their Son,</l>
+                     <l>
+                        <g ref="char:V">Ʋ</g>
+                        <g ref="char:V">Ʋ</g>hat? muſt my Fathers buſineſſe be undone?</l>
+                     <l>That Fathers children nothtng miſ-befalls,</l>
+                     <l>He ſtill hath buſineſſe for them when he calls.</l>
+                  </lg>
+                  <lg>
+                     <l>And for what buſineſſe were you ſummon'd hence?</l>
+                     <l>T'adore the Throne with proſtr<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>te Reverence:<note place="margin">Rev. 5.</note>
+                     </l>
+                     <l>To hear the <hi>Lamb</hi> w<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>th his own mouth reveale</l>
+                     <l>The myſtick Oracles of the <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>eaven-fold Seale.</l>
+                     <l>To l<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>arn at once and in perf<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ction know,<note place="margin">1 Cor. 13.</note>
+                     </l>
+                     <l>The truth of All men argue of below.</l>
+                     <l>To read your name writ in the White-ſtone gemme,<note place="margin">Re. 2. 17. Pſa. 8. 5. Rev. 8. 3.</note>
+                     </l>
+                     <l>And to receive the Royall Diadem.</l>
+                     <l>To pray at th<g ref="char:punc">▪</g>golden Altar, and to ſing</l>
+                     <l>New ſongs of tryumph to th'immortall King.</l>
+                     <l>The hidden <hi>Manna<g ref="char:punc">▪</g>
+                        </hi> and the Fruit to eat<note place="margin">Rev. 2. 7.</note>
+                     </l>
+                     <l>Of life, i'th midſt of Gods own <hi>Eden</hi> ſet.</l>
+                     <l>Embroidered ſtoles of Ophir-gold to weare,<note place="margin">Pſa. 45. Rev. 7. 9.</note>
+                     </l>
+                     <l>And in your hands victorious Palms to bear:</l>
+                     <l>To parlie, and to be familiar</l>
+                     <l>With Saints and Seraphins, and the morning ſtar.<note place="margin">Re. 2. 28.</note>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>Here you did bear and ſing, diſcourſe and pray,</l>
+                     <l>(Much more'<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> not done above,) and in this way</l>
+                     <l>You walk'<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> to Heaven; where glorious now you ſee</l>
+                     <l>Fulneſſe of j<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>y in Chriſts ſweet Majeſty.</l>
+                  </lg>
+                  <lg>
+                     <l>Many there be, who careleſſe live, and ſpend.</l>
+                     <l>Their dayes in ignorance, and ſtill depend</l>
+                     <pb n="41" facs="tcp:59467:20"/>
+                     <l>On longer time for mercy, then decay,</l>
+                     <l>And in ſome lingring ſickneſſe melt away.</l>
+                     <l>Like the foul candle in the ſocket ſpent,</l>
+                     <l>Damping the roome with an unwholeſome ſent.</l>
+                     <l>After ſome blazes doth at laſt conſume,</l>
+                     <l>And dye, and vaniſh in a noyſome fume.</l>
+                     <l>So theſe vain Flaſhes do: ſtill judging wrong,</l>
+                     <l>Themſelves dye ſuddenly though they languiſh long</l>
+                     <l>To dye well, yet live ill, is a vain ſtrife:</l>
+                     <l>Sweet Death <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ere followed an unſavoury Life.</l>
+                  </lg>
+                  <lg>
+                     <l>But you, after your converſation bright</l>
+                     <l>Had ſhin'd long time amongſt us, had your light</l>
+                     <l>At once put out with an Extinguiſher,</l>
+                     <l>The blaſting Apopl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>xie did interre</l>
+                     <l>Your brain in earthen miſts, which over-caſt,</l>
+                     <l>And through obſtructions, bind the ſences faſt.</l>
+                     <l>Here Art is ſenceleſſe too: yet are we ſure</l>
+                     <l>The reſurrection this Diſeaſe can cure.</l>
+                  </lg>
+                  <lg>
+                     <l>This you foreſaw in your laſt morning fligh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </l>
+                     <l>Before the evening of your fatall<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Night,</l>
+                     <l>For riſing from your Bed, theſe words you gave,</l>
+                     <l>
+                        <hi>How ſweet vvill be our riſing from the grave.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>Then from your cloſet to the Church you hyed</l>
+                     <l>Where your own happineſſe you heard propheſied,</l>
+                     <l>The Funerall text was this, <hi>When a Saint dyes.</hi>
+                     </l>
+                     <l>
+                        <hi>How precious is his death in the Lords eyes.</hi>
+                        <note place="margin">Pſa. 116.</note>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>Whence you, as Chriſt from <hi>Jordan,</hi> ſtraight returne,</l>
+                     <l>Or like that mournfull Paire, whoſe heart did burn</l>
+                     <l>In <hi>Emaus</hi> way: thus fir'd wi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>h Heav<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nly flame</l>
+                     <l>You fully were poſſeſt with your own<note n="*" place="margin">
+                           <hi>Elizabeth,</hi> i. e <hi>fulneſſe of God.</hi>
+                        </note> Name,</l>
+                     <l>And (thus inlivened) with your friends at table</l>
+                     <l>Your heart ſo cheerfull was, ſo comfortable,</l>
+                     <l>So pleaſant was your veine, that you correct</l>
+                     <l>Your ſelf, and ſmiling, ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>id to this effect.</l>
+                     <l>Well, Husband, here I have not long to bide</l>
+                     <l>
+                        <hi>Why Love?</hi> ſaith he, <hi>I hope a longer Tide</hi>
+                     </l>
+                     <l>
+                        <hi>We may. Nay,</hi> you reply, <hi>that may not be</hi>
+                     </l>
+                     <l>
+                        <hi>Tis little</hi> known to <hi>you, wha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>s know<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> to me.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <pb n="42" facs="tcp:59467:21"/>
+                     <l>Then ſtraight the ſacred Temple did you call,</l>
+                     <l>Invited to a ſecond Funerall:</l>
+                     <l>Where (preſent) I obſerv'd your ſparkling eye<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </l>
+                     <l>Through th'incenſe of your evening Sacrifice;</l>
+                     <l>That done, to your laſt Supper you retire,</l>
+                     <l>Thence to your Agony. This was the gire</l>
+                     <l>And circuit of your laſt and well ſpent day,</l>
+                     <l>The Modell of your life and Heav'nly Way.</l>
+                  </lg>
+                  <lg>
+                     <l>Then <hi>Iſrael-like,</hi> you ſtrive to your laſt breath:</l>
+                     <l>He tooke his Maime in Prayer, and you that death</l>
+                     <l>By which you live. Such bleſſed victories</l>
+                     <l>Are ſooneſt got by wreaſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ing on our knees.</l>
+                     <l>You conquered death, and your ſweet end begins</l>
+                     <l>More happy years, then all the world hath ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nn<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s.</l>
+                  </lg>
+                  <lg>
+                     <l>Religious Soul, could you deviſe a way,</l>
+                     <l>Your laſt ſweet Raptures hither to convey,</l>
+                     <l>The Pattern of your dying Prayer would be</l>
+                     <l>Thrice recompence for my courſe <hi>Elegie.</hi>
+                     </l>
+                     <l>Yet my bleſt memory ſhall your Acts enſhrine,</l>
+                     <l>And Vertues, and to vertue me incline.</l>
+                  </lg>
+                  <lg>
+                     <l>Let them whom fears of ſudden Death beſet,</l>
+                     <l>Still wear about them this tryed Amulet.</l>
+                     <l>Agracious heart, and life's the ſureſt guard,</l>
+                     <l>
+                        <hi>He ne're dyed ſuddenly that dyed prepar'd.</hi>
+                     </l>
+                     <l>C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ll't not a ſudden or untimely Doome,</l>
+                     <l>VVhich did bo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>h welcome and expected come.</l>
+                  </lg>
+                  <lg>
+                     <l>Happy, thrice happy, who departeth hence,</l>
+                     <l>With your ſweet Name, and ſpotleſſe Conſcience.</l>
+                  </lg>
+                  <epigraph>
+                     <q>Cum mihi ſupremos Lacheſis perneverit annos, Non aliter cineres mando jacere meos.</q>
+                  </epigraph>
+                  <trailer>FINIS.</trailer>
+                  <pb facs="tcp:59467:21" rendition="simple:additions"/>
+               </div>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
